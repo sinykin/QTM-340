@@ -7,4 +7,5 @@ We will discuss contemporary topics including data ethics, data justice, and iss
 
 - [Syllabus](docs/QTM340—Fall2020.pdf)
 - Course Calendar
-- Canvas (Emory students only)
+- Course on [Canvas](https://canvas.emory.edu/courses/76593) (Emory students only)
+- [Email me!](mailto:daniel.sinykin@emory.edu)
