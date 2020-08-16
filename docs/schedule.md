@@ -3,7 +3,7 @@
 ## Introduction and Overview
 
 8/20 – SYNCHRONOUS
-### What does it mean to be practical?
+#### What does it mean to be practical?
 
 * In class: syllabus overview, intro/transcription exercise ([slides](slides/class-1.pdf))
 
