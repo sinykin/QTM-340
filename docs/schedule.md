@@ -8,7 +8,7 @@
 * In class: syllabus overview, intro/transcription exercise ([slides](slides/class-1.pdf))
 
 8/25 – SYNCHRONOUS
-### What can you do with text?
+#### What can you do with text?
 
 * Before class:
 	* Read: Li-Young Lee, “[Persimmons](https://www.poetryfoundation.org/poems/43011/persimmons)”
@@ -16,22 +16,22 @@
 
 * In class: Close reading and [Voyant](https://voyant-tools.org/) exercise ([slides](../slides/class-2.pdf))
 
-### Unit 1: Turning Text into Data
+## Unit 1: Turning Text into Data
 
 8/27 – SYNCHRONOUS
-### GitHub
+#### GitHub
 * TBD
 * **HW 0 Due:** Install [Anaconda](https://www.anaconda.com/distribution/#download-section) <-- You want the Python 3.7 version
 
 9/1 - ASYNCHRONOUS
-### Platforms and People
+#### Platforms and People
 
 * Read: Lilly Irani, “[Justice for ‘Data Janitors’](https://www.publicbooks.org/justice-for-data-janitors/)”
 * Canvas: Discussion of Irani
 * Notebook: Intro to Jupyter | [notebook](../notebooks/class3-jupyter-intro.ipynb))
 
 9/3 – SYNCHRONOUS
-### Web Scraping
+#### Web Scraping
 
 * Before class:
 	* Read: Astead Herndon et al.,, “[What Do Rally Playlists Say About the Candidates?](https://www.nytimes.com/interactive/2019/08/19/us/politics/presidential-campaign-songs-playlists.html)”
@@ -40,7 +40,7 @@
 * In class: Web scraping and HTML parsing using Beautiful Soup ([slides](../slides/class4slides.pdf) | [complete notebook](h../notebooks/class4-web-scraping-complete.ipynb) | [class notebook](../notebooks/class4-web-scraping-inclass.ipynb))
 
 9/8 – ASYNCHRONOUS
-### APIs
+#### APIs
 
 * Read Xavier Adam, “[An Illustrated Introduction to APIs](https://medium.com/epfl-extension-school/an-illustrated-introduction-to-apis-10f8000313b9)” and “[API Whispering 101](https://medium.com/epfl-extension-school/api-whispering-101-e04fbb5a08fd)”
 * Work through the notebooks "class6-accessing-apis-inclass.ipynb," distributed via Canvas and More with APIs (accessing APIS: [class notebook](../notebooks/class6-accessing-apis-inclass.ipynb), [complete notebook](../notebooks/class6-accessing-apis-complete.ipynb) | Genius API [class notebook](../notebooks/class6-genius-api-inclass.ipynb), [complete notebook](../notebooks/class6-genius-api-complete.ipynb))
