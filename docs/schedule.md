@@ -94,7 +94,7 @@ Canvas: discussion of Klein and Mishra
 Notebook: POS tagging, NER ([class notebook](../notebooks/class11-nlp-spacy-inclass.ipynb), [complete notebook](../notebooks/class11-nlp-spacy-complete.ipynb))
 
 10/1 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-Topic modeling
+##### Topic modeling
 
 * Before class:
 	* Read: Cameron Blevins, “[Topic Modeling Martha Ballard’s Diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/)”
@@ -102,103 +102,102 @@ Topic modeling
 	
 * In class: topic modeling ([class notebook](../notebooks/class9/class9-topic-modeling-inclass.ipynb), [complete notebook](../notebooks/class9-topic-modeling-complete.ipynb)) 	
 
-10/8 – More with word counts and tf-idf
+10/6 – ASYNCHRONOUS
+##### Word vectors 
 
-* In class: more word counts and tf-idf
+* Read: Sarah Connell, “[Word Embedding Models are the New Topic Models](https://web.northeastern.edu/nulab/word-embedding-model/)”
+* Read: Ben Schmidt, “[Gendered Language in Teacher Reviews](http://benschmidt.org/profGender)”
+* Canvas: discussion of Connell and Schmidt
+* Notebook: word vectors ([class notebook](../notebooks/class12-word-vectors-inclass.ipynb), [complete notebook](../notebooks/class12-word-vectors-complete.ipynb))
 
-
-<div align="center"> 	
-	<b>[ FALL BREAK ]</b>
-</div>
-
-10/17 – Word vectors 
-
-* Before class:
-	* Read: Sarah Connell, “[Word Embedding Models are the New Topic Models](https://web.northeastern.edu/nulab/word-embedding-model/)”
-	* Read: Ben Schmidt, “[Gendered Language in Teacher Reviews](http://benschmidt.org/profGender)”
-* In class: word vectors ([class notebook](../notebooks/class12-word-vectors-inclass.ipynb), [complete notebook](../notebooks/class12-word-vectors-complete.ipynb))
-
-* **HW 3 Due:** CCP analysis 
+10/8 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+##### BERT (Bidirectional Encoder Representations from Transformers)
+* TBD
 
 ### Unit 3: (More) Modeling Textual Data
 
-10/22 – Pandas (finally!) 
+10/13 – ASYNCHRONOUS
+##### Pandas / Final Project Brainstorming Session
+* **HW 3 Due:** TBD
 
-* Read: Heather Krasue, “[Data Biographies: Getting to Know Your Data](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)”
-* Read: Timnit Gebru et al., “[Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf)”
+10/15 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+##### Another Look at Data
+* Before Class:
+	* Read: Heather Krasue, “[Data Biographies: Getting to Know Your Data](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)”
+	* Read: Timnit Gebru et al., “[Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf)”
 
 * In class: pandas ([class notebook](../notebooks/class13-pandas-inclass.ipynb), [complete notebook](../notebooks/class13-pandas-complete.ipynb))
 
-10/24 – More pandas / more final project
+10/20 – ASYNCHRONOUS
+##### Language Models
+* Read: David Smith and Ryan Cordell, [“Mass Digitization”](https://manifold.umn.edu/read/untitled-883630b9-c054-44e1-91db-d053a7106ecb/section/ea1f849a-bac1-4e9d-85f4-149d0083a6a4) and [“What is Text, Probably?”](https://manifold.umn.edu/read/8ddd9c7c-c2db-44be-91a6-732d1d08ec47/section/4cb9d511-6870-4108-ba4e-2726d106dd39#ch03)
+* Notebook: more pandas ([class notebook](../notebooks/class14-pandas-in-action-inclass.ipynb), [complete notebook](../notebooks/class14-pandas-in-action-complete.ipynb))
 
-* In class: more pandas ([class notebook](../notebooks/class14-pandas-in-action-inclass.ipynb), [complete notebook](../notebooks/class14-pandas-in-action-complete.ipynb))
+10/22 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+##### Similarity
 
-10/29 – Classification
-
-* Read: Patrick Juola, “[How a Computer Program Helped Show J.K. Rowling Wrote A Cuckoo’s Calling](https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/)” (and [more technical version](https://languagelog.ldc.upenn.edu/nll/?p=5315) if you're curious)
-* Read: Terra Blevins et al., “[Automatically Processing Tweets from Gang-Involved Youth: Towards Detecting Loss and Aggression](https://www.aclweb.org/anthology/C16-1207)”
+* Before Class:
+	* Read: Patrick Juola, “[How a Computer Program Helped Show J.K. Rowling Wrote A Cuckoo’s Calling](https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/)” (and [more technical version](https://languagelog.ldc.upenn.edu/nll/?p=5315) if you're curious)
 
 * In class: classification ([class notebook](../notebooks/class15-classification-inclass.ipynb), [complete notebook](../notebooks/class15-classification-complete.ipynb))
 
 * **FPP 1 Due: Datasheet OR Project Proposal**
 
-10/31 – Clustering
+10/27 – ASYNCHRONOUS
+##### Classificartion
 
+* Read: Terra Blevins et al., “[Automatically Processing Tweets from Gang-Involved Youth: Towards Detecting Loss and Aggression](https://www.aclweb.org/anthology/C16-1207)”
+
+* Notebook: classification ([class notebook and required files](../notebooks/class16.zip), [complete notebook](../notebooks/class16/class16-clustering-complete.ipynb))
+
+10/29 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+##### Neural Networks
+* TBD
+
+11/3 - ASYNCHRONOUS
+##### Clustering
 * Read: Matt Daniels, “[The Language of Hip Hop](https://pudding.cool/2017/09/hip-hop-words/)”
 * Read: Alexis Madrigal, “[How Netflix Reverse Engineered Hollywood](https://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/)”
-
-* In class: classification ([class notebook and required files](../notebooks/class16.zip), [complete notebook](../notebooks/class16/class16-clustering-complete.ipynb))
-
-11/5 – Bits and bobs
-
-* In class: more classification ([class notebook](../notebooks/class17-more-classifying-inclass.ipynb) and more clustering ([class notebook](../notebooks/class17-more-clustering-inclass.ipynb))
-
-11/7 – NO CLASS, Professor at conference
+* Notebook: more classification ([class notebook](../notebooks/class17-more-classifying-inclass.ipynb) and more clustering ([class notebook](../notebooks/class17-more-clustering-inclass.ipynb))
 
 * **FPP 2 Due: Datasheet OR Project Proposal**
 
 ### Unit 4: Arguing with Textual Data
 
-11/12 – Making arguments, day 1
+11/5 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+##### Making arguments
 
-* Read: Dong Nguyen et al., “[How we do things with words: Analyzing text as social and cultural data](https://arxiv.org/pdf/1907.01468.pdf)”
+* Before Class:
+	* Read: Dong Nguyen et al., “[How we do things with words: Analyzing text as social and cultural data](https://arxiv.org/pdf/1907.01468.pdf)”
+	* Read: Ted Underwood, David Bamman, and Sabrina Lee, [“The Transformation of Gender in English Language Fiction”](https://culturalanalytics.org/article/11035-the-transformation-of-gender-in-english-language-fiction)
+* In class: discussion of Nguyen et al, Underwood et al, and final project
 
-* In class: discussion of Nguyen paper and final project
-
-11/14 – Making arguments, day 2
-
-* Read: Hoyt Long and Richard Jean So, “[Literary Pattern Recognition: Modernism between Close Reading and Machine Learning](https://www-journals-uchicago-edu.proxy.library.emory.edu/doi/pdfplus/10.1086/684353)”
-* Read: Eshwar Chandrasekharan et al., "[You Can’t Stay Here: The Efficacy of Reddit’s 2015 Ban Examined Through Hate Speech](http://comp.social.gatech.edu/papers/cscw18-chand-hate.pdf)"
-
-* In class: discussion of assigned papers (and a few other examples) ([class slides](../slides/class18-slides.pdf))
-
-11/19 – Validation day 1
+11/10 – ASYNCHRONOUS
+##### Validation, day 1
 
 * Read: Matthew Salganik, “Moving Beyond Simple Experiments,” from Bit by Bit: Social Research in the Digital Age (on Canvas)
-
-* In class: overview of methods of validation ([class slides](../slides/class19-slides.pdf))
-
-11/21 – Validation day 2
-
-* Read: Richard Jean So, “[All Models are Wrong](https://www-mlajournals-org.proxy.library.emory.edu/doi/pdf/10.1632/pmla.2017.132.3.668)”
-* Read: Safiya Noble, “Introduction” and “Searching for Black Girls” from Algorithms of Oppression: How Search Engines Reinforce Racism (on Canvas)
-
-* In class: discussion of idea of validation ([class slides](../slides/class20-slides.pdf))
+* Canvas: discussion of assigned papers (and a few other examples) ([class slides](../slides/class18-slides.pdf))
 
 * **FPP 3 Due: Exploratory Analysis**
 
-11/26 – NO CLASS, Thanksgiving
+11/12 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+##### Validation day 2
 
-<div align="center"> 	
-	<b>[ THANKSGIVING BREAK ]</b>
-</div>
+* Before Class:
+	* Read: Richard Jean So, “[All Models are Wrong](https://www-mlajournals-org.proxy.library.emory.edu/doi/pdf/10.1632/pmla.2017.132.3.668)”
+	* Read: Safiya Noble, “Introduction” and “Searching for Black Girls” from Algorithms of Oppression: How Search Engines Reinforce Racism (on Canvas)
+* Canvas: discussion of So and Noble
+* In class: overview of methods of validation ([class slides](../slides/class19-slides.pdf))
 
-12/3 – Project presentations
+11/17 – SYNCHRONOUS
+##### Project presentations
 
-12/5 – Project presentations
+11/19 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+##### Project presentations
 
-12/10 – Course wrap-up and assessment
+11/24 – SYNCHRONOUS
+##### Course wrap-up and assessment
 
-### FINAL PROJECTS DUE DECEMBER 17TH, 5:30PM
+### FINAL PROJECTS DUE TBD
 
-*This syllabus has been inspired by the courses of [Jinho Choi](https://github.com/emory-courses/data-science), [Alison Parrish](http://www.decontextualize.com/teaching/), [David Mimno](https://mimno.infosci.cornell.edu/info3350/), [David Bamman](http://people.ischool.berkeley.edu/~dbamman/info256.html), [Ryan Cordell](http://s17hda.ryancordell.org), and [Ben Schmidt](http://benschmidt.org/HDA19/), as well as suggestions and other input from Heather Froehlich, Ted Underwood, Jacob Eisenstein, Jim Casey, Taylor Arnold, Lauren Tilton, Lisa Rhody, Eileen Clancy, and the Colored Conventions Project Team.*
+* Lauren F. Klein wrote and designed the first version of this syllabus, inspired by the courses of [Jinho Choi](https://github.com/emory-courses/data-science), [Alison Parrish](http://www.decontextualize.com/teaching/), [David Mimno](https://mimno.infosci.cornell.edu/info3350/), [David Bamman](http://people.ischool.berkeley.edu/~dbamman/info256.html), [Ryan Cordell](http://s17hda.ryancordell.org), and [Ben Schmidt](http://benschmidt.org/HDA19/), as well as suggestions and other input from Heather Froehlich, Ted Underwood, Jacob Eisenstein, Jim Casey, Taylor Arnold, Lauren Tilton, Lisa Rhody, Eileen Clancy, and the Colored Conventions Project Team.*
