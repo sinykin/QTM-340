@@ -5,8 +5,9 @@
 8/20 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 #### What does it mean to be practical?
 
-* In class: syllabus overview, intro/transcription exercise ([slides](slides/class-1.pdf))
-  
+* In class: syllabus overview, intro/transcription exercise ([slides](slides/class-1.pdf))  
+
+
 8/25 – [SYNCHRONOUS](https://emory.zoom.us/j/97707116544)
 #### What can you do with text?
 
