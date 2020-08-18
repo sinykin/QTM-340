@@ -3,14 +3,12 @@
 ## Introduction and Overview
 
 8/20 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-#### What does it mean to be practical?
+##### What does it mean to be practical?
 
 * In class: syllabus overview, intro/transcription exercise ([slides](slides/class-1.pdf))  
   
-  
-
 8/25 – [SYNCHRONOUS](https://emory.zoom.us/j/97707116544)
-#### What can you do with text?
+##### What can you do with text?
 
 * Before class:
 	* Read: Li-Young Lee, “[Persimmons](https://www.poetryfoundation.org/poems/43011/persimmons)”
@@ -23,19 +21,19 @@
 ## Unit 1: Turning Text into Data
 
 8/27 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-#### GitHub
+##### GitHub
 * TBD
 * **HW 0 Due:** Install [Anaconda](https://www.anaconda.com/distribution/#download-section) <-- You want the Python 3.7 version
 
 9/1 - ASYNCHRONOUS
-#### Platforms and People
+##### Platforms and People
 
 * Read: Lilly Irani, “[Justice for ‘Data Janitors’](https://www.publicbooks.org/justice-for-data-janitors/)”
 * Canvas: Discussion of Irani
 * Notebook: Intro to Jupyter | [notebook](../notebooks/class3-jupyter-intro.ipynb))
 
 9/3 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-#### Web Scraping
+##### Web Scraping
 
 * Before class:
 	* Read: Astead Herndon et al.,, “[What Do Rally Playlists Say About the Candidates?](https://www.nytimes.com/interactive/2019/08/19/us/politics/presidential-campaign-songs-playlists.html)”
@@ -44,13 +42,13 @@
 * In class: Web scraping and HTML parsing using Beautiful Soup ([slides](../slides/class4slides.pdf) | [complete notebook](h../notebooks/class4-web-scraping-complete.ipynb) | [class notebook](../notebooks/class4-web-scraping-inclass.ipynb))
 
 9/8 – ASYNCHRONOUS
-#### APIs
+##### APIs
 
 * Read Xavier Adam, “[An Illustrated Introduction to APIs](https://medium.com/epfl-extension-school/an-illustrated-introduction-to-apis-10f8000313b9)” and “[API Whispering 101](https://medium.com/epfl-extension-school/api-whispering-101-e04fbb5a08fd)”
 * Work through the notebooks "class6-accessing-apis-inclass.ipynb," distributed via Canvas and More with APIs (accessing APIS: [class notebook](../notebooks/class6-accessing-apis-inclass.ipynb), [complete notebook](../notebooks/class6-accessing-apis-complete.ipynb) | Genius API [class notebook](../notebooks/class6-genius-api-inclass.ipynb), [complete notebook](../notebooks/class6-genius-api-complete.ipynb))
 
 9/10 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-#### Text parsing / regular expressions
+##### Text parsing / regular expressions
 
 * **HW1 Due**: Scrape the song lyrics of one of the candidate's songs from genius.com using Beautiful Soup (assignment on Canvas)
 
@@ -62,14 +60,14 @@
 ### Unit 2: Operationalizing Text as Data
 
 9/15 – ASYNCHRONOUS
-Sentiment analysis 
+##### Sentiment analysis 
 
 * Read: Ethan Reed, “[Measured Unrest in the Poetry of the Black Arts Movement](https://scholarslab.lib.virginia.edu/blog/measured-unrest-in-the-poetry-of-the-black-arts-movement/)”
 * Read: Catherine D’Ignazio and Lauren Klein, “[The Numbers Don’t Speak for Themselves](https://bookbook.pubpub.org/pub/6ui5n4vo)”
 * Notebook: song lyric corpus: [complete notebook](../notebooks/class8-lyrics-scraping-complete.ipynb) | sentiment analysis: [class notebook](../notebooks/class8-sentiment-analysis-inclass.ipynb), [complete notebook]
 
 9/17 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-sklearn: countvectorizer
+##### sklearn: countvectorizer
 
 Read: TBD on Turning Words into Numbers
 Data TBD
@@ -95,8 +93,7 @@ Natural Language Processing (NER, POS tagging)
 Canvas: discussion of Klein and Mishra
 Notebook: POS tagging, NER ([class notebook](../notebooks/class11-nlp-spacy-inclass.ipynb), [complete notebook](../notebooks/class11-nlp-spacy-complete.ipynb))
 
-
-
+10/1 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 Topic modeling
 
 * Before class:
