@@ -7,6 +7,7 @@
 
 * In class: syllabus overview, intro/transcription exercise ([slides](slides/class-1.pdf))
 
+
 8/25 – [SYNCHRONOUS](https://emory.zoom.us/j/97707116544)
 #### What can you do with text?
 
@@ -16,6 +17,7 @@
 	* Canvas: discussion of Whitmore
 
 * In class: Close reading and [Voyant](https://voyant-tools.org/) exercise ([slides](../slides/class-2.pdf))
+
 
 ## Unit 1: Turning Text into Data
 
