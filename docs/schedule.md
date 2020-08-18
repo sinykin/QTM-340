@@ -2,23 +2,24 @@
 
 ## Introduction and Overview
 
-8/20 – SYNCHRONOUS
+8/20 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 #### What does it mean to be practical?
 
 * In class: syllabus overview, intro/transcription exercise ([slides](slides/class-1.pdf))
 
-8/25 – SYNCHRONOUS
+8/25 – [SYNCHRONOUS](https://emory.zoom.us/j/97707116544)
 #### What can you do with text?
 
 * Before class:
 	* Read: Li-Young Lee, “[Persimmons](https://www.poetryfoundation.org/poems/43011/persimmons)”
 	* Read: Michael Whitmore, “[Text: A Massively Addressable Object](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a)”
+	* Canvas: discussion of Whitmore
 
 * In class: Close reading and [Voyant](https://voyant-tools.org/) exercise ([slides](../slides/class-2.pdf))
 
 ## Unit 1: Turning Text into Data
 
-8/27 – SYNCHRONOUS
+8/27 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 #### GitHub
 * TBD
 * **HW 0 Due:** Install [Anaconda](https://www.anaconda.com/distribution/#download-section) <-- You want the Python 3.7 version
@@ -30,7 +31,7 @@
 * Canvas: Discussion of Irani
 * Notebook: Intro to Jupyter | [notebook](../notebooks/class3-jupyter-intro.ipynb))
 
-9/3 – SYNCHRONOUS
+9/3 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 #### Web Scraping
 
 * Before class:
@@ -45,30 +46,55 @@
 * Read Xavier Adam, “[An Illustrated Introduction to APIs](https://medium.com/epfl-extension-school/an-illustrated-introduction-to-apis-10f8000313b9)” and “[API Whispering 101](https://medium.com/epfl-extension-school/api-whispering-101-e04fbb5a08fd)”
 * Work through the notebooks "class6-accessing-apis-inclass.ipynb," distributed via Canvas and More with APIs (accessing APIS: [class notebook](../notebooks/class6-accessing-apis-inclass.ipynb), [complete notebook](../notebooks/class6-accessing-apis-complete.ipynb) | Genius API [class notebook](../notebooks/class6-genius-api-inclass.ipynb), [complete notebook](../notebooks/class6-genius-api-complete.ipynb))
 
-9/19 - Text parsing / regular expressions
+9/10 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+#### Text parsing / regular expressions
 
 * **HW1 Due**: Scrape the song lyrics of one of the candidate's songs from genius.com using Beautiful Soup (assignment on Canvas)
 
-* In class: Text parsing and regex with our candidate song lyrics (regex: [class notebook](../notebooks/class7-regex-intro-inclass.ipynb), [complete notebook](lass7-regex-intro-complete.ipynb) | cleaning song lyrics: [class notebook](../notebooks/class7-regex-with-song-lyrics-inclass.ipynb), [complete notebook](./notebooks/class7-regex-with-song-lyrics-complete.ipynb))
+* Before Class:
+	* Read: David Zentgraf, [“What Every Programmer Absolutely, Positively Needs to Know about Encodings and Character Sets to Work with Text”](https://kunststube.net/encoding/)
+
+* In class: Text parsing and regex with our candidate song lyrics (regex: [class notebook](../notebooks/class7-regex-intro-inclass.ipynb), [complete notebook]| cleaning song lyrics: [class notebook](../notebooks/class7-regex-with-song-lyrics-inclass.ipynb), [complete notebook]
 
 ### Unit 2: Operationalizing Text as Data
 
-9/24 – Sentiment analysis (a preview of what is to come)
+9/15 – ASYNCHRONOUS
+Sentiment analysis 
+
+* Read: Ethan Reed, “[Measured Unrest in the Poetry of the Black Arts Movement](https://scholarslab.lib.virginia.edu/blog/measured-unrest-in-the-poetry-of-the-black-arts-movement/)”
+* Read: Catherine D’Ignazio and Lauren Klein, “[The Numbers Don’t Speak for Themselves](https://bookbook.pubpub.org/pub/6ui5n4vo)”
+* Notebook: song lyric corpus: [complete notebook](../notebooks/class8-lyrics-scraping-complete.ipynb) | sentiment analysis: [class notebook](../notebooks/class8-sentiment-analysis-inclass.ipynb), [complete notebook]
+
+9/17 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+sklearn: countvectorizer
+
+Read: TBD on Turning Words into Numbers
+Data TBD
+
+9/22 – ASYNCHRONOUS
+
+* **HW 2 Due:** TBD
+intro of final project 
+
+9/24 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+Word counts, tf-idf
 
 * Before class:
-	* Read: Ethan Reed, “[Measured Unrest in the Poetry of the Black Arts Movement](https://scholarslab.lib.virginia.edu/blog/measured-unrest-in-the-poetry-of-the-black-arts-movement/)”
-	* Read: Catherine D’Ignazio and Lauren Klein, “[The Numbers Don’t Speak for Themselves](https://bookbook.pubpub.org/pub/6ui5n4vo)”
-* In class: Sentiment analysis of our song lyric corpus and, if time, discussion of context (song lyric corpus: [complete notebook](../notebooks/class8-lyrics-scraping-complete.ipynb) | sentiment analysis: [class notebook](../notebooks/class8-sentiment-analysis-inclass.ipynb), [complete notebook](../notebooks/class8-sentiment-analysis-complete.ipynb))
+	* Read: Charlie Smart, “[The Differences in How CNN, MSNBC, & Fox Cover the News](https://pudding.cool/2018/01/chyrons/)”
+	
+* In class: word counts, tf-idf ([class notebook](../notebooks/class10-counting-words-inclass.ipynb), [complete notebook])
 
-9/26 – Intro to Colored Conventions Project Corpus 
+9/29 - ASYNCHRONOUS
+Natural Language Processing (NER, POS tagging)
 
-* Before class:
-	* Read: P. Gabrielle Foreman, Sarah Patterson, and Jim Casey, “[Introduction to the Colored Conventions Movement](http://coloredconventions.org/introduction-to-movement)” and “[CCP Principles](http://coloredconventions.org/ccp-principles)”
-	* Watch: “[The Colored Conventions Project in Three Videos](http://coloredconventions.org/project-videos)” (watch the three videos)
+* Read: Lauren Klein, “[The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://read-dukeupress-edu.proxy.library.emory.edu/american-literature/article-pdf/85/4/661/393292/AL854_03Klein_Fpp.pdf)”
+* Read: Ishan Misra et al., “[Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels](https://arxiv.org/pdf/1512.06974.pdf?fbclid=IwAR2OwfGEBmPR2ngyN0Hu2JYIEa7rwUe2VTGV8x3laDp89KxL1o6LBERXb9M)”
+Canvas: discussion of Klein and Mishra
+Notebook: POS tagging, NER ([class notebook](../notebooks/class11-nlp-spacy-inclass.ipynb), [complete notebook](../notebooks/class11-nlp-spacy-complete.ipynb))
 
-* In class: Skype with Colored Conventions Project Team and Unit 1 Survey
 
-10/1 – Topic modeling
+
+Topic modeling
 
 * Before class:
 	* Read: Cameron Blevins, “[Topic Modeling Martha Ballard’s Diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/)”
@@ -76,26 +102,10 @@
 	
 * In class: topic modeling ([class notebook](../notebooks/class9/class9-topic-modeling-inclass.ipynb), [complete notebook](../notebooks/class9-topic-modeling-complete.ipynb)) 	
 
-10/3 – Word counts, tf-idf
-
-* **HW 2 Due:** Sentiment analysis of the Colored Conventions Corpus
-
-* Before class:
-	* Read: Charlie Smart, “[The Differences in How CNN, MSNBC, & Fox Cover the News](https://pudding.cool/2018/01/chyrons/)”
-	
-* In class: word counts, tf-idf ([class notebook](../notebooks/class10-counting-words-inclass.ipynb), [complete notebook](../notebooks/class10-counting-words-complete.ipynb))
-
 10/8 – More with word counts and tf-idf
 
 * In class: more word counts and tf-idf
 
-10/10 – Part-of-speech tagging and Named Entity Recognition 
-
-* Before class:
-	* Read: Lauren Klein, “[The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://read-dukeupress-edu.proxy.library.emory.edu/american-literature/article-pdf/85/4/661/393292/AL854_03Klein_Fpp.pdf)”
-	* Read: Ishan Misra et al., “[Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels](https://arxiv.org/pdf/1512.06974.pdf?fbclid=IwAR2OwfGEBmPR2ngyN0Hu2JYIEa7rwUe2VTGV8x3laDp89KxL1o6LBERXb9M)”
-
-* In class: POS tagging, NER ([class notebook](../notebooks/class11-nlp-spacy-inclass.ipynb), [complete notebook](../notebooks/class11-nlp-spacy-complete.ipynb))
 
 <div align="center"> 	
 	<b>[ FALL BREAK ]</b>
@@ -112,7 +122,7 @@
 
 ### Unit 3: (More) Modeling Textual Data
 
-10/22 – Pandas (finally!) / intro of final project 
+10/22 – Pandas (finally!) 
 
 * Read: Heather Krasue, “[Data Biographies: Getting to Know Your Data](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)”
 * Read: Timnit Gebru et al., “[Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf)”
