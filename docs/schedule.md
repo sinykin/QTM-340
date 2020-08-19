@@ -15,7 +15,7 @@
 	* Read: Michael Whitmore, “[Text: A Massively Addressable Object](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a)”
 	* Canvas: discussion of Whitmore
 
-* In class: Close reading and [Voyant](https://voyant-tools.org/) exercise ([slides](../slides/class-2.pdf))
+* In class: Close reading and [Voyant](https://voyant-tools.org/) exercise 
 
 
 ## Unit 1: Turning Text into Data
