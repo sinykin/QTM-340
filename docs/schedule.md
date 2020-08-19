@@ -30,7 +30,7 @@
 
 * Read: Lilly Irani, “[Justice for ‘Data Janitors’](https://www.publicbooks.org/justice-for-data-janitors/)”
 * Canvas: Discussion of Irani
-* Notebook: Intro to Jupyter | [notebook](../notebooks/class3-jupyter-intro.ipynb)
+* Notebook: Intro to Jupyter | [notebook](../notebooks/class4-jupyter-intro-ds.ipynb)
 
 9/3 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Web Scraping
