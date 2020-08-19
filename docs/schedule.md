@@ -39,7 +39,7 @@
 	* Read: Astead Herndon et al.,, “[What Do Rally Playlists Say About the Candidates?](https://www.nytimes.com/interactive/2019/08/19/us/politics/presidential-campaign-songs-playlists.html)”
 	* Hanah Anderson and Matt Daniels, “[Film Dialogue](https://pudding.cool/2017/03/film-dialogue/)”
   * Canvas: Discussion of Anderson and Daniels
-* In class: Web scraping and HTML parsing using Beautiful Soup ([slides](../slides/class4slides.pdf) | [complete notebook](h../notebooks/class4-web-scraping-complete.ipynb) | [class notebook](../notebooks/class4-web-scraping-inclass.ipynb))
+* In class: Web scraping and HTML parsing using Beautiful Soup ([class notebook](../notebooks/class5-web-scraping-inclass-ds.ipynb))
 
 9/8 – ASYNCHRONOUS
 ##### APIs
