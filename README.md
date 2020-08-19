@@ -6,6 +6,6 @@ What does it mean to turn text into data? What are the data science techniques c
 We will discuss contemporary topics including data ethics, data justice, and issues with “humans in the loop.” Introductory courses in computer science and probability and statistics are recommended as prerequisites. You will complete class exercises and homework assignments in Python. I expect you to participate in class discussion and present your final project at the end of the semester. I require some short writing assignments. 
 
 - [Syllabus](docs/QTM340—Fall2020.pdf)
-- Course Calendar
+- [Course Calendar](docs/schedule.md)
 - Course on [Canvas](https://canvas.emory.edu/courses/76593) (Emory students only)
 - [Email me!](mailto:daniel.sinykin@emory.edu)
