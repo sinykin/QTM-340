@@ -14,6 +14,7 @@
 	* Read: Li-Young Lee, “[Persimmons](https://www.poetryfoundation.org/poems/43011/persimmons)”
 	* Read: Michael Whitmore, “[Text: A Massively Addressable Object](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a)”
 	* [Canvas: discussion of "text"](https://canvas.emory.edu/courses/76593/discussion_topics/422564)
+	* [Discussion Forum guidelines](../docs/DiscussionForum.docx)
 
 * In class: Close reading and [Voyant](https://voyant-tools.org/) exercise 
 
