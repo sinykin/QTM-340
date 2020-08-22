@@ -22,9 +22,14 @@
 ## Unit 1: Turning Text into Data
 
 8/27 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-##### GitHub
-* TBD
-* **HW 0 Due:** Install [Anaconda](https://www.anaconda.com/distribution/#download-section) <-- You want the Python 3.7 version
+##### JupyterHub
+* Before class:
+	* Log in to our course's [JupyterHub](https://bit.ly/2QklTdO):
+		* Your ID is your Emory NetID
+		* Whatever you enter as your password the first time will become your password
+		* The site will take a moment to load. When it's finished, click [here](https://qtm340.ecdsdev.org/)
+		* You should arrive at JupyterHub with access to our course materials
+		* If you don't, don't worry; we'll troubleshoot in class 
 
 9/1 - ASYNCHRONOUS
 ##### Platforms and People
