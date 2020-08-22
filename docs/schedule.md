@@ -29,7 +29,7 @@
 		* Whatever you enter as your password the first time will become your password
 		* The site will take a moment to load. When it's finished, click [here](https://qtm340.ecdsdev.org/)
 		* You should arrive at JupyterHub with access to our course materials
-		* If you don't, don't worry; we'll troubleshoot in class 
+		* If you have any problems: **come to class early, at 4PM Eastern, to troubleshoot**
 
 9/1 - ASYNCHRONOUS
 ##### Platforms and People
