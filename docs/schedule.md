@@ -22,7 +22,7 @@
 ## Unit 1: Turning Text into Data
 
 8/27 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-##### JupyterHub
+##### JupyterHub & GPT-3
 * Before class:
 	* Log in to our course's [JupyterHub](https://bit.ly/2QklTdO):
 		* Your ID is your Emory NetID
@@ -30,6 +30,9 @@
 		* The site will take a moment to load. When it's finished, click [here](https://qtm340.ecdsdev.org/)
 		* You should arrive at JupyterHub with access to our course materials
 		* If you have any problems: **come to class early, at 4PM Eastern, to troubleshoot**
+	* Read Farhad Manjoo's [How Do You Know a Human Wrote This?](https://www.nytimes.com/2020/07/29/opinion/gpt-3-ai-automation.html)
+	* Spend at least 30 minutes playing [AI Dungeon](https://play.aidungeon.io/)
+	* Use GPT-2 to write your Canvas post. Go [here](https://transformer.huggingface.co/doc/gpt2-large). Delete the given text. Write the first 30-50 words of your post, then use tab and choose selections to let GPT-2 finish it.
 
 9/1 - ASYNCHRONOUS
 ##### Platforms and People
