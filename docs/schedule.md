@@ -32,7 +32,7 @@
 		* If you have any problems: **come to class early, at 4PM Eastern, to troubleshoot**
 	* Read Farhad Manjoo's [How Do You Know a Human Wrote This?](https://www.nytimes.com/2020/07/29/opinion/gpt-3-ai-automation.html)
 	* Spend at least 30 minutes playing [AI Dungeon](https://play.aidungeon.io/)
-	* Use GPT-2 to write your Canvas post. Go [here](https://transformer.huggingface.co/doc/gpt2-large). Delete the given text. Write the first 30-50 words of your post, then use tab and choose selections to let GPT-2 finish it.
+	* Canvas: Use GPT-2 to write your post. Go [here](https://transformer.huggingface.co/doc/gpt2-large). Delete the given text. Write the first 30-50 words of your post, then use tab and choose selections to let GPT-2 finish it.
 
 9/1 - ASYNCHRONOUS
 ##### Platforms and People
