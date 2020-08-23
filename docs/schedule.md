@@ -164,6 +164,7 @@ Notebook: POS tagging, NER ([class notebook](../notebooks/class11-nlp-spacy-incl
 * TBD
 
 11/3 - ASYNCHRONOUS
+# **ELECTION DAY—VOTE!!**
 ##### Clustering
 * Read: Matt Daniels, “[The Language of Hip Hop](https://pudding.cool/2017/09/hip-hop-words/)”
 * Read: Alexis Madrigal, “[How Netflix Reverse Engineered Hollywood](https://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/)”
