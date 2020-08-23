@@ -54,7 +54,7 @@
 ##### APIs
 
 * Read Xavier Adam, “[An Illustrated Introduction to APIs](https://medium.com/epfl-extension-school/an-illustrated-introduction-to-apis-10f8000313b9)” and “[API Whispering 101](https://medium.com/epfl-extension-school/api-whispering-101-e04fbb5a08fd)”
-* Work through the notebooks "class6-accessing-apis-inclass.ipynb," distributed via Canvas and More with APIs (accessing APIS: [class notebook](../notebooks/class6-accessing-apis-inclass-ds.ipynb) | Genius API [class notebook](../notebooks/class6-genius-api-inclass.ipynb))
+* Work through the notebooks "class6-accessing-apis-inclass.ipynb," and More with APIs (accessing APIS: [class notebook](../notebooks/class6-accessing-apis-inclass-ds.ipynb) | Genius API [class notebook](../notebooks/class6-genius-api-inclass.ipynb))
 
 9/10 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Text parsing / regular expressions
