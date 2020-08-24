@@ -24,10 +24,11 @@
 8/27 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### JupyterHub & GPT-3
 * Before class:
-	* Log in to our course's [JupyterHub](https://bit.ly/2QklTdO):
+	* Log in to our course's [JupyterHub](https://qtm340.ecdsdev.org/):
 		* Your ID is your Emory NetID
 		* Whatever you enter as your password the first time will become your password
-		* The site will take a moment to load. When it's finished, click [here](https://qtm340.ecdsdev.org/)
+		* After you have logged in, return here and click on [this link](https://bit.ly/2QklTdO) to load course materials
+		* The site will take a moment to load. When it's finished, click [here](https://qtm340.ecdsdev.org/) 
 		* You should arrive at JupyterHub with access to our course materials
 		* If you have any problems: **come to class early, at 4PM Eastern, to troubleshoot**
 	* Read Farhad Manjoo's [How Do You Know a Human Wrote This?](https://www.nytimes.com/2020/07/29/opinion/gpt-3-ai-automation.html)
