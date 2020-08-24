@@ -24,15 +24,16 @@
 8/27 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### JupyterHub & GPT-3
 * Before class:
-	* Log in to our course's [JupyterHub](https://bit.ly/2QklTdO):
+	* Log in to our course's [JupyterHub](https://qtm340.ecdsdev.org/):
 		* Your ID is your Emory NetID
 		* Whatever you enter as your password the first time will become your password
-		* The site will take a moment to load. When it's finished, click [here](https://qtm340.ecdsdev.org/)
+		* After you have logged in, return here and click on [this link](https://bit.ly/2QklTdO) to load course materials
+		* The site will take a moment to load. When it's finished, click [here](https://qtm340.ecdsdev.org/) 
 		* You should arrive at JupyterHub with access to our course materials
 		* If you have any problems: **come to class early, at 4PM Eastern, to troubleshoot**
 	* Read Farhad Manjoo's [How Do You Know a Human Wrote This?](https://www.nytimes.com/2020/07/29/opinion/gpt-3-ai-automation.html)
 	* Spend at least 30 minutes playing [AI Dungeon](https://play.aidungeon.io/)
-	* Use GPT-2 to write your Canvas post. Go [here](https://transformer.huggingface.co/doc/gpt2-large). Delete the given text. Write the first 30-50 words of your post, then use tab and choose selections to let GPT-2 finish it.
+	* Canvas: Use GPT-2 to write your post. Go [here](https://transformer.huggingface.co/doc/gpt2-large). Delete the given text. Write the first 30-50 words of your post, then use tab and choose selections to let GPT-2 finish it.
 
 9/1 - ASYNCHRONOUS
 ##### Platforms and People
@@ -54,7 +55,7 @@
 ##### APIs
 
 * Read Xavier Adam, “[An Illustrated Introduction to APIs](https://medium.com/epfl-extension-school/an-illustrated-introduction-to-apis-10f8000313b9)” and “[API Whispering 101](https://medium.com/epfl-extension-school/api-whispering-101-e04fbb5a08fd)”
-* Work through the notebooks "class6-accessing-apis-inclass.ipynb," distributed via Canvas and More with APIs (accessing APIS: [class notebook](../notebooks/class6-accessing-apis-inclass-ds.ipynb) | Genius API [class notebook](../notebooks/class6-genius-api-inclass.ipynb))
+* Work through the notebooks "class6-accessing-apis-inclass.ipynb," and More with APIs (accessing APIs: [class notebook](../notebooks/class6-accessing-apis-inclass-ds.ipynb) | Genius API [class notebook](../notebooks/class6-genius-api-inclass.ipynb))
 
 9/10 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Text parsing / regular expressions
@@ -164,6 +165,7 @@ Notebook: POS tagging, NER ([class notebook](../notebooks/class11-nlp-spacy-incl
 * TBD
 
 11/3 - ASYNCHRONOUS
+# **ELECTION DAY—VOTE!!**
 ##### Clustering
 * Read: Matt Daniels, “[The Language of Hip Hop](https://pudding.cool/2017/09/hip-hop-words/)”
 * Read: Alexis Madrigal, “[How Netflix Reverse Engineered Hollywood](https://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/)”
