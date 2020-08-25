@@ -60,7 +60,7 @@
 9/10 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Text parsing / regular expressions
 
-* **HW1 Due**: Scrape the song lyrics of one of the candidate's songs from genius.com using Beautiful Soup (assignment on Canvas)
+* [**HW1 Due**:](../docs/hw1-ds.pdf) Scrape the song lyrics of one of the candidate's songs from genius.com using Beautiful Soup [(assignment on Canvas)](https://canvas.emory.edu/courses/76593/assignments)
 
 * Before Class:
 	* Read: David Zentgraf, [“What Every Programmer Absolutely, Positively Needs to Know about Encodings and Character Sets to Work with Text”](https://kunststube.net/encoding/)
