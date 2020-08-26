@@ -13,7 +13,7 @@
 * Before class:
 	* Read: Li-Young Lee, “[Persimmons](https://www.poetryfoundation.org/poems/43011/persimmons)”
 	* Read: Michael Whitmore, “[Text: A Massively Addressable Object](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a)”
-	* [Canvas: discussion of "text"](https://canvas.emory.edu/courses/76593/discussion_topics/422564)
+	* [Canvas: Discussion of "text"](https://canvas.emory.edu/courses/76593/discussion_topics/422564)
 	* [Discussion Forum guidelines](../docs/DiscussionForum.pdf)
 
 * In class: Close reading and [Voyant](https://voyant-tools.org/) exercise 
@@ -55,15 +55,17 @@
 ##### APIs
 
 * Read Xavier Adam, “[An Illustrated Introduction to APIs](https://medium.com/epfl-extension-school/an-illustrated-introduction-to-apis-10f8000313b9)” and “[API Whispering 101](https://medium.com/epfl-extension-school/api-whispering-101-e04fbb5a08fd)”
-* Work through the notebooks "class6-accessing-apis-inclass.ipynb," and More with APIs (accessing APIs: [class notebook](../notebooks/class6-accessing-apis-inclass-ds.ipynb) | Genius API [class notebook](../notebooks/class6-genius-api-inclass.ipynb))
+* Work through the notebooks "class6-accessing-apis-inclass.ipynb," and More with APIs (accessing APIs: [class notebook](../notebooks/class6-accessing-apis-inclass-ds.ipynb) | Genius API [class notebook](../notebooks/class6-genius-api-inclass-ds.ipynb))
 
 9/10 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Text parsing / regular expressions
 
-* **HW1 Due**: Scrape the song lyrics of one of the candidate's songs from genius.com using Beautiful Soup (assignment on Canvas)
+* [**HW1 Due**:](../docs/hw1-ds.pdf) Scrape the song lyrics of one of the candidate's songs from genius.com using Beautiful Soup [(assignment on Canvas)](https://canvas.emory.edu/courses/76593/assignments)
 
 * Before Class:
 	* Read: David Zentgraf, [“What Every Programmer Absolutely, Positively Needs to Know about Encodings and Character Sets to Work with Text”](https://kunststube.net/encoding/)
+	* Read: Scott Weingart, ["The Route of a Text Message"](https://scottbot.net/the-route-of-a-text-message/)
+	* Canvas: Discussion of Weingart
 
 * In class: Text parsing and regex with our candidate song lyrics (regex: [class notebook](../notebooks/class7-regex-intro-inclass.ipynb), [complete notebook]| cleaning song lyrics: [class notebook](../notebooks/class7-regex-with-song-lyrics-inclass.ipynb), [complete notebook]
 
