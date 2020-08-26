@@ -76,7 +76,7 @@
 
 * Read: Ethan Reed, “[Measured Unrest in the Poetry of the Black Arts Movement](https://scholarslab.lib.virginia.edu/blog/measured-unrest-in-the-poetry-of-the-black-arts-movement/)”
 * Read: Catherine D’Ignazio and Lauren Klein, “[The Numbers Don’t Speak for Themselves](https://bookbook.pubpub.org/pub/6ui5n4vo)”
-* Notebook: song lyric corpus: [complete notebook](../notebooks/class8-lyrics-scraping-complete.ipynb) | sentiment analysis: [class notebook](../notebooks/class8-sentiment-analysis-inclass.ipynb), [complete notebook]
+* Notebook: [song lyric corpus](../notebooks/class8-lyrics-scraping-inclass-ds.ipynb) | [sentiment analysis](../notebooks/class8-sentiment-analysis-inclass-ds.ipynb)
 
 9/17 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### sklearn: countvectorizer
