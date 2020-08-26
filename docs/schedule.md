@@ -67,7 +67,7 @@
 	* Read: Scott Weingart, ["The Route of a Text Message"](https://scottbot.net/the-route-of-a-text-message/)
 	* Canvas: Discussion of Weingart
 
-* In class: Text parsing and regex with our candidate song lyrics (regex: [class notebook](../notebooks/class7-regex-intro-inclass-ds.ipynb), [complete notebook]| cleaning song lyrics: [class notebook](../notebooks/class7-regex-with-song-lyrics-inclass-ds.ipynb), [complete notebook]
+* In class: Text parsing and regex with our candidate song lyrics (regex: [class notebook](../notebooks/class7-regex-intro-inclass-ds.ipynb), [complete notebook]| cleaning song lyrics: [class notebook](../notebooks/class7-regex-with-song-lyrics-inclass-ds.ipynb), [complete notebook])
 
 ### Unit 2: Operationalizing Text as Data
 
