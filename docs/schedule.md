@@ -75,6 +75,8 @@
 ##### Sentiment analysis 
 
 * Read: Ethan Reed, “[Measured Unrest in the Poetry of the Black Arts Movement](https://scholarslab.lib.virginia.edu/blog/measured-unrest-in-the-poetry-of-the-black-arts-movement/)”
+* Read: Ethan Reed, ["Poems with Pattern and VADER, Part 1: Quincy Troupe"](https://scholarslab.lib.virginia.edu/blog/poems-with-pattern-and-vader-part-1-quincy-troupe/)
+* Read: Ethan Reed, ["Poems with Pattern and VADER, Part 2: Nikki Giovanni"](https://scholarslab.lib.virginia.edu/blog/poems-with-pattern-and-vader-part-2-nikki-giovanni/)
 * Read: Catherine D’Ignazio and Lauren Klein, “[The Numbers Don’t Speak for Themselves](https://bookbook.pubpub.org/pub/6ui5n4vo)”
 * Notebook: [song lyric corpus](../notebooks/class8-lyrics-scraping-inclass-ds.ipynb) | [sentiment analysis](../notebooks/class8-sentiment-analysis-inclass-ds.ipynb)
 
