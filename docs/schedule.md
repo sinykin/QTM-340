@@ -82,14 +82,15 @@
 9/17 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Turning Words into Numbers
 
-Read: Aurelie Herbelot, ["Distributional Semantics: A Light Introduction"](https://aurelieherbelot.net/research/distributional-semantics-intro/)
-Read: Michael Gavin, ["Vector Semantics, William Empson, and the Study of Ambiguity"](../docs/Gavin_Vector_Semantics.pdf)
-Data TBD
+* Before Class:
+	* Read: Aurelie Herbelot, ["Distributional Semantics: A Light Introduction"](https://aurelieherbelot.net/research/distributional-semantics-intro/)
+	* Read: Michael Gavin, ["Vector Semantics, William Empson, and the Study of Ambiguity"](../docs/Gavin_Vector_Semantics.pdf)
+* Data TBD
 
 9/22 – ASYNCHRONOUS
 
 * **HW 2 Due:** TBD
-intro of final project 
+* intro of final project 
 
 9/24 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 Word counts, tf-idf
