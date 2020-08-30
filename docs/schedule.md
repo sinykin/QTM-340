@@ -80,7 +80,7 @@
 * Notebook: [song lyric corpus](../notebooks/class8-lyrics-scraping-inclass-ds.ipynb) | [sentiment analysis](../notebooks/class8-sentiment-analysis-inclass-ds.ipynb)
 
 9/17 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-##### Natural Language Processing (NER, POS tagging)
+##### Natural Language Processing 101 (NER, POS tagging)
 
 * Before class:
 	* Read: Lauren Klein, “[The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://read-dukeupress-edu.proxy.library.emory.edu/american-literature/article-pdf/85/4/661/393292/AL854_03Klein_Fpp.pdf)”
