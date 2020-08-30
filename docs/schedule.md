@@ -92,8 +92,8 @@
 ##### Turning Words into Numbers
 
 * Read: Aurelie Herbelot, ["Distributional Semantics: A Light Introduction"](https://aurelieherbelot.net/research/distributional-semantics-intro/)
-* Read: Michael Gavin, ["Vector Semantics, William Empson, and the Study of Ambiguity"](../docs/Gavin_Vector_Semantics.pdf)
-* Notebook: TBD
+* Read: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6-6.3](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
+* Notebook: [intro to sklearn]
 
 9/24 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Word counts, tf-idf
