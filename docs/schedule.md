@@ -129,23 +129,25 @@
 10/8 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Unit 2 Wrap-up
 
+* Final Project Brainstorming Session
+
 ## Unit 3: (More) Modeling Textual Data
 10/13 – ASYNCHRONOUS
-##### Pandas / Final Project Brainstorming Session
+##### Pandas 
+
+* Notebook: pandas ([class notebook](../notebooks/class13-pandas-inclass.ipynb), [complete notebook](../notebooks/class13-pandas-complete.ipynb))
 * **HW 3 Due:** TBD
 
 10/15 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Another Look at Data
 * Before Class:
-	* Read: Heather Krasue, “[Data Biographies: Getting to Know Your Data](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)”
-	* Read: Timnit Gebru et al., “[Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf)”
-
-* In class: pandas ([class notebook](../notebooks/class13-pandas-inclass.ipynb), [complete notebook](../notebooks/class13-pandas-complete.ipynb))
+	* Read: Heather Krause, “[Data Biographies: Getting to Know Your Data](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)”
+	* Read: Timnit Gebru et al., “[Datasheets for Datasets]"(https://arxiv.org/pdf/1803.09010.pdf)
+* Notebook: more pandas ([class notebook](../notebooks/class14-pandas-in-action-inclass.ipynb), [complete notebook](../notebooks/class14-pandas-in-action-complete.ipynb))
 
 10/20 – ASYNCHRONOUS
 ##### Language Models
 * Read: David Smith and Ryan Cordell, [“Mass Digitization”](https://manifold.umn.edu/read/untitled-883630b9-c054-44e1-91db-d053a7106ecb/section/ea1f849a-bac1-4e9d-85f4-149d0083a6a4) and [“What is Text, Probably?”](https://manifold.umn.edu/read/8ddd9c7c-c2db-44be-91a6-732d1d08ec47/section/4cb9d511-6870-4108-ba4e-2726d106dd39#ch03)
-* Notebook: more pandas ([class notebook](../notebooks/class14-pandas-in-action-inclass.ipynb), [complete notebook](../notebooks/class14-pandas-in-action-complete.ipynb))
 
 10/22 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Similarity
@@ -161,7 +163,6 @@
 ##### Classificartion
 
 * Read: Terra Blevins et al., “[Automatically Processing Tweets from Gang-Involved Youth: Towards Detecting Loss and Aggression](https://www.aclweb.org/anthology/C16-1207)”
-
 * Notebook: classification ([class notebook and required files](../notebooks/class16.zip), [complete notebook](../notebooks/class16/class16-clustering-complete.ipynb))
 
 10/29 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
