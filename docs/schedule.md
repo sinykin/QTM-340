@@ -80,28 +80,27 @@
 * Notebook: [song lyric corpus](../notebooks/class8-lyrics-scraping-inclass-ds.ipynb) | [sentiment analysis](../notebooks/class8-sentiment-analysis-inclass-ds.ipynb)
 
 9/17 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-##### Turning Words into Numbers
-
-* Before class:
-	* Read: Aurelie Herbelot, ["Distributional Semantics: A Light Introduction"](https://aurelieherbelot.net/research/distributional-semantics-intro/)
-	* Read: Michael Gavin, ["Vector Semantics, William Empson, and the Study of Ambiguity"](../docs/Gavin_Vector_Semantics.pdf)
-* Data TBD
-
-9/22 – ASYNCHRONOUS
-##### Word counts, tf-idf
-
-* Read: Charlie Smart, “[The Differences in How CNN, MSNBC, & Fox Cover the News](https://pudding.cool/2018/01/chyrons/)”
-* In class: word counts, tf-idf ([class notebook](../notebooks/class10-counting-words-inclass.ipynb), [complete notebook])
-* **HW 2 Due:** 
-
-9/24 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Natural Language Processing (NER, POS tagging)
 
 * Before class:
 	* Read: Lauren Klein, “[The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://read-dukeupress-edu.proxy.library.emory.edu/american-literature/article-pdf/85/4/661/393292/AL854_03Klein_Fpp.pdf)”
 	* Read: Ishan Misra et al., “[Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels](https://arxiv.org/pdf/1512.06974.pdf?fbclid=IwAR2OwfGEBmPR2ngyN0Hu2JYIEa7rwUe2VTGV8x3laDp89KxL1o6LBERXb9M)”
 	* Canvas: discussion of Klein and Mishra
-* Notebook: POS tagging, NER ([class notebook](../notebooks/class11-nlp-spacy-inclass.ipynb), [complete notebook](../notebooks/class11-nlp-spacy-complete.ipynb))
+* In class: Part-of-Speech (POS) tagging, Named Entity Recognition (NER) ([class notebook](../notebooks/class11-nlp-spacy-inclass.ipynb), [complete notebook](../notebooks/class11-nlp-spacy-complete.ipynb))
+
+9/22 – ASYNCHRONOUS
+##### Turning Words into Numbers
+
+* Read: Aurelie Herbelot, ["Distributional Semantics: A Light Introduction"](https://aurelieherbelot.net/research/distributional-semantics-intro/)
+* Read: Michael Gavin, ["Vector Semantics, William Empson, and the Study of Ambiguity"](../docs/Gavin_Vector_Semantics.pdf)
+* Notebook: TBD
+
+9/24 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+##### Word counts, tf-idf
+
+* Read: Charlie Smart, “[The Differences in How CNN, MSNBC, & Fox Cover the News](https://pudding.cool/2018/01/chyrons/)”
+* In class: word counts, tf-idf ([class notebook](../notebooks/class10-counting-words-inclass.ipynb), [complete notebook])
+* **HW 2 Due:** 
 * intro of final project 
 
 9/29 - ASYNCHRONOUS
