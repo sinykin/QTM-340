@@ -58,7 +58,7 @@
 * Work through the notebooks "class6-accessing-apis-inclass.ipynb," and More with APIs (accessing APIs: [class notebook](../notebooks/class6-accessing-apis-inclass-ds.ipynb) | Genius API [class notebook](../notebooks/class6-genius-api-inclass-ds.ipynb))
 
 9/10 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-##### Text parsing / regular expressions
+##### Text Parsing / Regular Expressions
 
 * [**HW1 Due**:](../docs/hw1-ds.pdf) Scrape the song lyrics of one of the candidate's songs from genius.com using Beautiful Soup [(assignment on Canvas)](https://canvas.emory.edu/courses/76593/assignments)
 
@@ -72,7 +72,7 @@
 ### Unit 2: Operationalizing Text as Data
 
 9/15 – ASYNCHRONOUS
-##### Sentiment analysis 
+##### Sentiment Analysis 
 
 * Read: Ethan Reed, “[Measured Unrest in the Poetry of the Black Arts Movement](https://scholarslab.lib.virginia.edu/blog/measured-unrest-in-the-poetry-of-the-black-arts-movement/)”, ["Poems with Pattern and VADER, Part 1: Quincy Troupe"](https://scholarslab.lib.virginia.edu/blog/poems-with-pattern-and-vader-part-1-quincy-troupe/), ["Poems with Pattern and VADER, Part 2: Nikki Giovanni"](https://scholarslab.lib.virginia.edu/blog/poems-with-pattern-and-vader-part-2-nikki-giovanni/)
 * Read: Catherine D’Ignazio and Lauren Klein, “[The Numbers Don’t Speak for Themselves](https://bookbook.pubpub.org/pub/6ui5n4vo)”
@@ -100,7 +100,7 @@ Word counts, tf-idf
 * In class: word counts, tf-idf ([class notebook](../notebooks/class10-counting-words-inclass.ipynb), [complete notebook])
 
 9/29 - ASYNCHRONOUS
-Natural Language Processing (NER, POS tagging)
+##### Natural Language Processing (NER, POS tagging)
 
 * Read: Lauren Klein, “[The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://read-dukeupress-edu.proxy.library.emory.edu/american-literature/article-pdf/85/4/661/393292/AL854_03Klein_Fpp.pdf)”
 * Read: Ishan Misra et al., “[Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels](https://arxiv.org/pdf/1512.06974.pdf?fbclid=IwAR2OwfGEBmPR2ngyN0Hu2JYIEa7rwUe2VTGV8x3laDp89KxL1o6LBERXb9M)”
@@ -108,7 +108,7 @@ Canvas: discussion of Klein and Mishra
 Notebook: POS tagging, NER ([class notebook](../notebooks/class11-nlp-spacy-inclass.ipynb), [complete notebook](../notebooks/class11-nlp-spacy-complete.ipynb))
 
 10/1 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-##### Topic modeling
+##### Topic mMdeling
 
 * Before class:
 	* Read: Cameron Blevins, “[Topic Modeling Martha Ballard’s Diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/)”
