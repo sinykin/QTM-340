@@ -58,21 +58,21 @@
 * Work through the notebooks "class6-accessing-apis-inclass.ipynb," and More with APIs (accessing APIs: [class notebook](../notebooks/class6-accessing-apis-inclass-ds.ipynb) | Genius API [class notebook](../notebooks/class6-genius-api-inclass-ds.ipynb))
 
 9/10 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-##### Text parsing / regular expressions
+##### Text Parsing / Regular Expressions
 
 * [**HW1 Due**:](../docs/hw1-ds.pdf) Scrape the song lyrics of one of the candidate's songs from genius.com using Beautiful Soup [(assignment on Canvas)](https://canvas.emory.edu/courses/76593/assignments)
 
-* Before Class:
+* Before class:
 	* Read: David Zentgraf, [“What Every Programmer Absolutely, Positively Needs to Know about Encodings and Character Sets to Work with Text”](https://kunststube.net/encoding/)
 	* Read: Scott Weingart, ["The Route of a Text Message"](https://scottbot.net/the-route-of-a-text-message/)
 	* Canvas: Discussion of Weingart
 
 * In class: Text parsing and regex with our candidate song lyrics (regex: [class notebook](../notebooks/class7-regex-intro-inclass-ds.ipynb), [complete notebook]| cleaning song lyrics: [class notebook](../notebooks/class7-regex-with-song-lyrics-inclass-ds.ipynb), [complete notebook])
 
-### Unit 2: Operationalizing Text as Data
+## Unit 2: Operationalizing Text as Data
 
 9/15 – ASYNCHRONOUS
-##### Sentiment analysis 
+##### Sentiment Analysis 
 
 * Read: Ethan Reed, “[Measured Unrest in the Poetry of the Black Arts Movement](https://scholarslab.lib.virginia.edu/blog/measured-unrest-in-the-poetry-of-the-black-arts-movement/)”, ["Poems with Pattern and VADER, Part 1: Quincy Troupe"](https://scholarslab.lib.virginia.edu/blog/poems-with-pattern-and-vader-part-1-quincy-troupe/), ["Poems with Pattern and VADER, Part 2: Nikki Giovanni"](https://scholarslab.lib.virginia.edu/blog/poems-with-pattern-and-vader-part-2-nikki-giovanni/)
 * Read: Catherine D’Ignazio and Lauren Klein, “[The Numbers Don’t Speak for Themselves](https://bookbook.pubpub.org/pub/6ui5n4vo)”
@@ -80,34 +80,31 @@
 * Notebook: [song lyric corpus](../notebooks/class8-lyrics-scraping-inclass-ds.ipynb) | [sentiment analysis](../notebooks/class8-sentiment-analysis-inclass-ds.ipynb)
 
 9/17 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-##### sklearn: countvectorizer
-
-Read: TBD on Turning Words into Numbers
-Data TBD
-
-9/22 – ASYNCHRONOUS
-
-* **HW 2 Due:** TBD
-intro of final project 
-
-9/24 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-Word counts, tf-idf
+##### Natural Language Processing 101 (NER, POS tagging)
 
 * Before class:
-	* Read: Charlie Smart, “[The Differences in How CNN, MSNBC, & Fox Cover the News](https://pudding.cool/2018/01/chyrons/)”
-	
+	* Read: Lauren Klein, “[The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://read-dukeupress-edu.proxy.library.emory.edu/american-literature/article-pdf/85/4/661/393292/AL854_03Klein_Fpp.pdf)”
+	* Read: Ishan Misra et al., “[Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels](https://arxiv.org/pdf/1512.06974.pdf?fbclid=IwAR2OwfGEBmPR2ngyN0Hu2JYIEa7rwUe2VTGV8x3laDp89KxL1o6LBERXb9M)”
+	* Canvas: discussion of Klein and Mishra
+* In class: Part-of-Speech (POS) tagging, Named Entity Recognition (NER) ([class notebook](../notebooks/class11-nlp-spacy-inclass.ipynb), [complete notebook](../notebooks/class11-nlp-spacy-complete.ipynb))
+
+9/22 – ASYNCHRONOUS
+##### Turning Words into Numbers
+
+* Read: Aurelie Herbelot, ["Distributional Semantics: A Light Introduction"](https://aurelieherbelot.net/research/distributional-semantics-intro/)
+* Read: Michael Gavin, ["Vector Semantics, William Empson, and the Study of Ambiguity"](../docs/Gavin_Vector_Semantics.pdf)
+* Notebook: TBD
+
+9/24 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+##### Word counts, tf-idf
+
+* Read: Charlie Smart, “[The Differences in How CNN, MSNBC, & Fox Cover the News](https://pudding.cool/2018/01/chyrons/)”
 * In class: word counts, tf-idf ([class notebook](../notebooks/class10-counting-words-inclass.ipynb), [complete notebook])
+* **HW 2 Due:** 
+* intro of final project 
 
 9/29 - ASYNCHRONOUS
-Natural Language Processing (NER, POS tagging)
-
-* Read: Lauren Klein, “[The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://read-dukeupress-edu.proxy.library.emory.edu/american-literature/article-pdf/85/4/661/393292/AL854_03Klein_Fpp.pdf)”
-* Read: Ishan Misra et al., “[Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels](https://arxiv.org/pdf/1512.06974.pdf?fbclid=IwAR2OwfGEBmPR2ngyN0Hu2JYIEa7rwUe2VTGV8x3laDp89KxL1o6LBERXb9M)”
-Canvas: discussion of Klein and Mishra
-Notebook: POS tagging, NER ([class notebook](../notebooks/class11-nlp-spacy-inclass.ipynb), [complete notebook](../notebooks/class11-nlp-spacy-complete.ipynb))
-
-10/1 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-##### Topic modeling
+##### Topic Modeling
 
 * Before class:
 	* Read: Cameron Blevins, “[Topic Modeling Martha Ballard’s Diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/)”
@@ -115,7 +112,7 @@ Notebook: POS tagging, NER ([class notebook](../notebooks/class11-nlp-spacy-incl
 	
 * In class: topic modeling ([class notebook](../notebooks/class9/class9-topic-modeling-inclass.ipynb), [complete notebook](../notebooks/class9-topic-modeling-complete.ipynb)) 	
 
-10/6 – ASYNCHRONOUS
+10/1 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Word vectors 
 
 * Read: Sarah Connell, “[Word Embedding Models are the New Topic Models](https://web.northeastern.edu/nulab/word-embedding-model/)”
@@ -123,12 +120,15 @@ Notebook: POS tagging, NER ([class notebook](../notebooks/class11-nlp-spacy-incl
 * Canvas: discussion of Connell and Schmidt
 * Notebook: word vectors ([class notebook](../notebooks/class12-word-vectors-inclass.ipynb), [complete notebook](../notebooks/class12-word-vectors-complete.ipynb))
 
-10/8 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+10/6 – ASYNCHRONOUS
 ##### BERT (Bidirectional Encoder Representations from Transformers)
+
 * TBD
 
-### Unit 3: (More) Modeling Textual Data
+10/8 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+##### Unit 2 Wrap-up
 
+## Unit 3: (More) Modeling Textual Data
 10/13 – ASYNCHRONOUS
 ##### Pandas / Final Project Brainstorming Session
 * **HW 3 Due:** TBD
@@ -176,7 +176,7 @@ Notebook: POS tagging, NER ([class notebook](../notebooks/class11-nlp-spacy-incl
 
 * **FPP 2 Due: Datasheet OR Project Proposal**
 
-### Unit 4: Arguing with Textual Data
+## Unit 4: Arguing with Textual Data
 
 11/5 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Making arguments
@@ -214,4 +214,4 @@ Notebook: POS tagging, NER ([class notebook](../notebooks/class11-nlp-spacy-incl
 
 ### FINAL PROJECTS DUE TBD
 
-* Lauren F. Klein wrote and designed the first version of this syllabus, inspired by the courses of [Jinho Choi](https://github.com/emory-courses/data-science), [Alison Parrish](http://www.decontextualize.com/teaching/), [David Mimno](https://mimno.infosci.cornell.edu/info3350/), [David Bamman](http://people.ischool.berkeley.edu/~dbamman/info256.html), [Ryan Cordell](http://s17hda.ryancordell.org), and [Ben Schmidt](http://benschmidt.org/HDA19/), as well as suggestions and other input from Heather Froehlich, Ted Underwood, Jacob Eisenstein, Jim Casey, Taylor Arnold, Lauren Tilton, Lisa Rhody, Eileen Clancy, and the Colored Conventions Project Team.*
+*Lauren F. Klein wrote and designed the first version of this syllabus, inspired by the courses of [Jinho Choi](https://github.com/emory-courses/data-science), [Alison Parrish](http://www.decontextualize.com/teaching/), [David Mimno](https://mimno.infosci.cornell.edu/info3350/), [David Bamman](http://people.ischool.berkeley.edu/~dbamman/info256.html), [Ryan Cordell](http://s17hda.ryancordell.org), and [Ben Schmidt](http://benschmidt.org/HDA19/), as well as suggestions and other input from Heather Froehlich, Ted Underwood, Jacob Eisenstein, Jim Casey, Taylor Arnold, Lauren Tilton, Lisa Rhody, Eileen Clancy, and the Colored Conventions Project Team. I supplemented the syllabus with inspiration from Melanie Walsh.*
