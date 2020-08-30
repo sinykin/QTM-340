@@ -80,9 +80,10 @@
 * Notebook: [song lyric corpus](../notebooks/class8-lyrics-scraping-inclass-ds.ipynb) | [sentiment analysis](../notebooks/class8-sentiment-analysis-inclass-ds.ipynb)
 
 9/17 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-##### sklearn: countvectorizer
+##### Turning Words into Numbers
 
-Read: TBD on Turning Words into Numbers
+Read: Aurelie Herbelot, ["Distributional Semantics: A Light Introduction"](https://aurelieherbelot.net/research/distributional-semantics-intro/)
+Read: Michael Gavin, ["Vector Semantics, William Empson, and the Study of Ambiguity"](../docs/Gavin_Vector_Semantics.pdf)
 Data TBD
 
 9/22 – ASYNCHRONOUS
