@@ -105,7 +105,7 @@
 * intro of final project 
 
 9/29 - ASYNCHRONOUS
-##### Topic mMdeling
+##### Topic Modeling
 
 * Before class:
 	* Read: Cameron Blevins, “[Topic Modeling Martha Ballard’s Diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/)”
