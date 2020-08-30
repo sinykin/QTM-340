@@ -69,7 +69,7 @@
 
 * In class: Text parsing and regex with our candidate song lyrics (regex: [class notebook](../notebooks/class7-regex-intro-inclass-ds.ipynb), [complete notebook]| cleaning song lyrics: [class notebook](../notebooks/class7-regex-with-song-lyrics-inclass-ds.ipynb), [complete notebook])
 
-### Unit 2: Operationalizing Text as Data
+## Unit 2: Operationalizing Text as Data
 
 9/15 – ASYNCHRONOUS
 ##### Sentiment Analysis 
@@ -129,7 +129,7 @@
 10/8 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Unit 2 Wrap-up
 
-### Unit 3: (More) Modeling Textual Data
+## Unit 3: (More) Modeling Textual Data
 10/13 – ASYNCHRONOUS
 ##### Pandas / Final Project Brainstorming Session
 * **HW 3 Due:** TBD
@@ -177,7 +177,7 @@
 
 * **FPP 2 Due: Datasheet OR Project Proposal**
 
-### Unit 4: Arguing with Textual Data
+## Unit 4: Arguing with Textual Data
 
 11/5 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Making arguments
