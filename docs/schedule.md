@@ -48,7 +48,7 @@
 * Before class:
 	* Read: Astead Herndon et al.,, “[What Do Rally Playlists Say About the Candidates?](https://www.nytimes.com/interactive/2019/08/19/us/politics/presidential-campaign-songs-playlists.html)”
 	* Hanah Anderson and Matt Daniels, “[Film Dialogue](https://pudding.cool/2017/03/film-dialogue/)”
-  * Canvas: Discussion of Anderson and Daniels
+  * Canvas: [Discussion of Anderson and Daniels](https://canvas.emory.edu/courses/76593/discussion_topics/433389)
 * In class: Web scraping and HTML parsing using Beautiful Soup ([class notebook](../notebooks/class5-web-scraping-inclass-ds.ipynb))
 
 9/8 – ASYNCHRONOUS
@@ -84,9 +84,8 @@
 
 * Before class:
 	* Read: Lauren Klein, “[The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://read-dukeupress-edu.proxy.library.emory.edu/american-literature/article-pdf/85/4/661/393292/AL854_03Klein_Fpp.pdf)”
-	* Read: Ishan Misra et al., “[Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels](https://arxiv.org/pdf/1512.06974.pdf?fbclid=IwAR2OwfGEBmPR2ngyN0Hu2JYIEa7rwUe2VTGV8x3laDp89KxL1o6LBERXb9M)”
-	* Canvas: discussion of Klein and Mishra
-* In class: Part-of-Speech (POS) tagging, Named Entity Recognition (NER) ([class notebook](../notebooks/class11-nlp-spacy-inclass.ipynb), [complete notebook](../notebooks/class11-nlp-spacy-complete.ipynb))
+	* Canvas: discussion of Klein 
+* In class: Part-of-Speech (POS) tagging, Named Entity Recognition (NER) [class notebook](../notebooks/class9-nlp-spacy-inclass.ipynb)
 
 9/22 – ASYNCHRONOUS
 ##### Turning Words into Numbers
