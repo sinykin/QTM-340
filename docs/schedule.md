@@ -85,14 +85,14 @@
 * Before class:
 	* Read: Lauren Klein, “[The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://read-dukeupress-edu.proxy.library.emory.edu/american-literature/article-pdf/85/4/661/393292/AL854_03Klein_Fpp.pdf)”
 	* Canvas: discussion of Klein 
-* In class: Part-of-Speech (POS) tagging, Named Entity Recognition (NER) [class notebook](../notebooks/class10-sklearn-countvectorizer-inclass-ds.ipynb.ipynb)
+* In class: Part-of-Speech (POS) tagging, Named Entity Recognition (NER) [class notebook](../notebooks/class9-nlp-spacy-inclass-ds.ipynb)
 
 9/22 – ASYNCHRONOUS
 ##### Turning Words into Numbers
 
 * Read: Aurelie Herbelot, ["Distributional Semantics: A Light Introduction"](https://aurelieherbelot.net/research/distributional-semantics-intro/)
 * Read: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6-6.3](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
-* Notebook: [intro to sklearn](../notebooks/class10-sklearn-countvectorizer-inclass-ds)
+* Notebook: [intro to sklearn](../notebooks/class10-sklearn-countvectorizer-inclass-ds.ipynb)
 
 9/24 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Word counts, tf-idf
