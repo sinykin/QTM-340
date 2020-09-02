@@ -84,8 +84,7 @@
 
 * Before class:
 	* Read: Lauren Klein, “[The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://read-dukeupress-edu.proxy.library.emory.edu/american-literature/article-pdf/85/4/661/393292/AL854_03Klein_Fpp.pdf)”
-	* Read: Ishan Misra et al., “[Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels](https://arxiv.org/pdf/1512.06974.pdf?fbclid=IwAR2OwfGEBmPR2ngyN0Hu2JYIEa7rwUe2VTGV8x3laDp89KxL1o6LBERXb9M)”
-	* Canvas: discussion of Klein and Mishra
+	* Canvas: discussion of Klein 
 * In class: Part-of-Speech (POS) tagging, Named Entity Recognition (NER) [class notebook](../notebooks/class9-nlp-spacy-inclass.ipynb)
 
 9/22 – ASYNCHRONOUS
