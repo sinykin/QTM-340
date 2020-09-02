@@ -85,7 +85,7 @@
 * Before class:
 	* Read: Lauren Klein, “[The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://read-dukeupress-edu.proxy.library.emory.edu/american-literature/article-pdf/85/4/661/393292/AL854_03Klein_Fpp.pdf)”
 	* Canvas: discussion of Klein 
-* In class: Part-of-Speech (POS) tagging, Named Entity Recognition (NER) [class notebook](../notebooks/class9-nlp-spacy-inclass.ipynb)
+* In class: Part-of-Speech (POS) tagging, Named Entity Recognition (NER) [class notebook](../notebooks/class9-nlp-spacy-inclass-ds.ipynb)
 
 9/22 – ASYNCHRONOUS
 ##### Turning Words into Numbers
