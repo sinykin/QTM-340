@@ -95,7 +95,7 @@
 * Notebook: [intro to sklearn](../notebooks/class10-sklearn-countvectorizer-inclass-ds.ipynb)
 
 9/24 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-##### Word counts, tf-idf
+##### tf-idf
 
 * Before class:
 	* Read: Charlie Smart, “[The Differences in How CNN, MSNBC, & Fox Cover the News](https://pudding.cool/2018/01/chyrons/)”
