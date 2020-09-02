@@ -92,7 +92,7 @@
 
 * Read: Aurelie Herbelot, ["Distributional Semantics: A Light Introduction"](https://aurelieherbelot.net/research/distributional-semantics-intro/)
 * Read: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6-6.3](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
-* Notebook: [intro to sklearn]
+* Notebook: [intro to sklearn](../class10-sklearn-countvectorizer-inclass-ds)
 
 9/24 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Word counts, tf-idf
