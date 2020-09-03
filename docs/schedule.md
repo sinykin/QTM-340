@@ -93,6 +93,7 @@
 * Read: Aurelie Herbelot, ["Distributional Semantics: A Light Introduction"](https://aurelieherbelot.net/research/distributional-semantics-intro/)
 * Read: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6-6.3](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 * Notebook: [intro to sklearn](../notebooks/class10-sklearn-countvectorizer-inclass-ds.ipynb)
+* **HW 2 Due: Sentiment Analysis** 
 
 9/24 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### tf-idf
@@ -104,7 +105,6 @@
 
 * In class: word counts, tf-idf ([class notebook](../notebooks/class10-counting-words-inclass.ipynb), [complete notebook])
 * intro of final project 
-* **HW 2 Due:** 
 
 9/29 - ASYNCHRONOUS
 ##### Topic Modeling
