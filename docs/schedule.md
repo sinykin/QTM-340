@@ -98,6 +98,7 @@
 ##### tf-idf
 
 * Before class:
+	* Read: Milo Beckman, ["These are the Phrases Each GOP Candidate Uses Most"](https://fivethirtyeight.com/features/these-are-the-phrases-each-gop-candidate-repeats-most/)
 	* Read: Matt Daniels, “[The Language of Hip Hop](https://pudding.cool/2017/09/hip-hop-words/)”
 	* Read: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6.5-6.6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 
