@@ -127,6 +127,7 @@
 ##### BERT (Bidirectional Encoder Representations from Transformers)
 
 * TBD
+* **HW 3 Due:**
 
 10/8 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Unit 2 Wrap-up
@@ -138,7 +139,7 @@
 ##### Pandas 
 
 * Notebook: pandas ([class notebook](../notebooks/class13-pandas-inclass.ipynb), [complete notebook](../notebooks/class13-pandas-complete.ipynb))
-* **HW 3 Due:** TBD
+* TBD
 
 10/15 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Another Look at Data
@@ -151,6 +152,8 @@
 ##### Language Models
 * Read: David Smith and Ryan Cordell, [“Mass Digitization”](https://manifold.umn.edu/read/untitled-883630b9-c054-44e1-91db-d053a7106ecb/section/ea1f849a-bac1-4e9d-85f4-149d0083a6a4) and [“What is Text, Probably?”](https://manifold.umn.edu/read/8ddd9c7c-c2db-44be-91a6-732d1d08ec47/section/4cb9d511-6870-4108-ba4e-2726d106dd39#ch03)
 
+* **FPP 1 Due: Datasheet OR Project Proposal**
+
 10/22 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Similarity
 
@@ -158,8 +161,6 @@
 	* Read: Patrick Juola, “[How a Computer Program Helped Show J.K. Rowling Wrote A Cuckoo’s Calling](https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/)” (and [more technical version](https://languagelog.ldc.upenn.edu/nll/?p=5315) if you're curious)
 
 * In class: classification ([class notebook](../notebooks/class15-classification-inclass.ipynb), [complete notebook](../notebooks/class15-classification-complete.ipynb))
-
-* **FPP 1 Due: Datasheet OR Project Proposal**
 
 10/27 – ASYNCHRONOUS
 ##### Classificartion
@@ -171,14 +172,14 @@
 ##### Neural Networks
 * TBD
 
+* **FPP 2 Due: Datasheet OR Project Proposal**
+
 11/3 - ASYNCHRONOUS
 # **ELECTION DAY—VOTE!!**
 ##### Clustering
 * Read: Matt Daniels, “[The Language of Hip Hop](https://pudding.cool/2017/09/hip-hop-words/)”
 * Read: Alexis Madrigal, “[How Netflix Reverse Engineered Hollywood](https://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/)”
 * Notebook: more classification ([class notebook](../notebooks/class17-more-classifying-inclass.ipynb) and more clustering ([class notebook](../notebooks/class17-more-clustering-inclass.ipynb))
-
-* **FPP 2 Due: Datasheet OR Project Proposal**
 
 ## Unit 4: Arguing with Textual Data
 
