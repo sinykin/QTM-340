@@ -104,7 +104,7 @@
 	* Read: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6.5-6.6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 
 * In class: word counts, tf-idf ([class notebook](../notebooks/class10-counting-words-inclass.ipynb), [complete notebook])
-* intro of final project 
+* [intro of final project](../docs/final project overview-ds.pdf)
 
 9/29 - ASYNCHRONOUS
 ##### Topic Modeling
