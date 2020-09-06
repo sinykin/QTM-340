@@ -111,7 +111,6 @@
 
 * Before class:
 	* Read: Lauren F. Klein, ["Dimensions of Scale"](../docs/Klein_Topic_Modeling.pdf)
-	* Read: Lisa Rhody, “[Topic Modeling and Figurative Language](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/)”
 	
 * In class: topic modeling ([class notebook](../notebooks/class9/class9-topic-modeling-inclass.ipynb), [complete notebook](../notebooks/class9-topic-modeling-complete.ipynb)) 	
 
