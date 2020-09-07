@@ -126,7 +126,7 @@
 10/6 – ASYNCHRONOUS
 ##### BERT (Bidirectional Encoder Representations from Transformers)
 
-* TBD
+* Read: Ted Underwood, ["How Predictable Is Fiction?"](https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/)
 * **HW3 Due: [Experimental Deisgn](../docs/hw3-ds.pdf)**
 
 10/8 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
