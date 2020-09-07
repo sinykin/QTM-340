@@ -109,11 +109,9 @@
 9/29 - ASYNCHRONOUS
 ##### Topic Modeling
 
-* Before class:
-	* Read: Durand D'souza, ["We mapped out the road to gender parity in the House of Representatives"](https://pudding.cool/2018/07/women-in-congress/)
-	* Read: Lauren F. Klein, ["Dimensions of Scale"](../docs/Klein_Topic_Modeling.pdf)
-	
-* In class: topic modeling [class notebook](../notebooks/class9/class9-topic-modeling-inclass.ipynb) 	
+* Read: Durand D'souza, ["We mapped out the road to gender parity in the House of Representatives"](https://pudding.cool/2018/07/women-in-congress/)
+* Read: Lauren F. Klein, ["Dimensions of Scale"](../docs/Klein_Topic_Modeling.pdf)
+* Notebook: topic modeling [class notebook](../notebooks/class9/class9-topic-modeling-inclass.ipynb) 	
 
 10/1 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Word vectors 
