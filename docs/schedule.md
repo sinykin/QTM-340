@@ -127,7 +127,7 @@
 ##### BERT (Bidirectional Encoder Representations from Transformers)
 
 * TBD
-* **HW 3 Due:**
+* **HW2 Due: [Experimental Deisgn](../docs/hw3-ds.pdf)**
 
 10/8 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Unit 2 Wrap-up
