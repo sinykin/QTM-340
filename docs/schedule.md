@@ -67,7 +67,7 @@
 	* Read: Scott Weingart, ["The Route of a Text Message"](https://scottbot.net/the-route-of-a-text-message/)
 	* Canvas: Discussion of Weingart
 
-* In class: Text parsing and regex with our candidate song lyrics (regex: [class notebook](../notebooks/class7-regex-intro-inclass-ds.ipynb), [complete notebook]| cleaning song lyrics: [class notebook](../notebooks/class7-regex-with-song-lyrics-inclass-ds.ipynb), [complete notebook])
+* In class: Text parsing and regex with our candidate song lyrics (regex: [class notebook](../notebooks/class7-regex-intro-inclass-ds.ipynb), [complete notebook]| cleaning song lyrics: [class notebook](../notebooks/class7-regex-with-song-lyrics-inclass-ds.ipynb)
 
 ## Unit 2: Operationalizing Text as Data
 
@@ -103,7 +103,7 @@
 	* Read: Matt Daniels, “[The Language of Hip Hop](https://pudding.cool/2017/09/hip-hop-words/)”
 	* Read: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6.5-6.6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 
-* In class: word counts, tf-idf ([class notebook](../notebooks/class10-counting-words-inclass.ipynb), [complete notebook])
+* In class: word counts, tf-idf [class notebook](../notebooks/class10-counting-words-inclass.ipynb)
 * [intro of final project](../docs/final-project-overview-ds.pdf)
 
 9/29 - ASYNCHRONOUS
@@ -113,7 +113,7 @@
 	* Read: Durand D'souza, ["We mapped out the road to gender parity in the House of Representatives"](https://pudding.cool/2018/07/women-in-congress/)
 	* Read: Lauren F. Klein, ["Dimensions of Scale"](../docs/Klein_Topic_Modeling.pdf)
 	
-* In class: topic modeling ([class notebook](../notebooks/class9/class9-topic-modeling-inclass.ipynb), [complete notebook](../notebooks/class9-topic-modeling-complete.ipynb)) 	
+* In class: topic modeling [class notebook](../notebooks/class9/class9-topic-modeling-inclass.ipynb) 	
 
 10/1 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Word vectors 
@@ -121,7 +121,7 @@
 * Read: Sarah Connell, “[Word Embedding Models are the New Topic Models](https://web.northeastern.edu/nulab/word-embedding-model/)”
 * Read: Ben Schmidt, “[Gendered Language in Teacher Reviews](http://benschmidt.org/profGender)”
 * Canvas: discussion of Connell and Schmidt
-* Notebook: word vectors ([class notebook](../notebooks/class12-word-vectors-inclass.ipynb), [complete notebook](../notebooks/class12-word-vectors-complete.ipynb))
+* Notebook: word vectors [class notebook](../notebooks/class12-word-vectors-inclass.ipynb)
 
 10/6 – ASYNCHRONOUS
 ##### BERT (Bidirectional Encoder Representations from Transformers)
@@ -138,7 +138,7 @@
 10/13 – ASYNCHRONOUS
 ##### Pandas 
 
-* Notebook: pandas ([class notebook](../notebooks/class13-pandas-inclass.ipynb), [complete notebook](../notebooks/class13-pandas-complete.ipynb))
+* Notebook: pandas [class notebook](../notebooks/class13-pandas-inclass.ipynb)
 * TBD
 
 10/15 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
@@ -146,7 +146,7 @@
 * Before Class:
 	* Read: Heather Krause, “[Data Biographies: Getting to Know Your Data](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)”
 	* Read: Timnit Gebru et al., “[Datasheets for Datasets]"(https://arxiv.org/pdf/1803.09010.pdf)
-* Notebook: more pandas ([class notebook](../notebooks/class14-pandas-in-action-inclass.ipynb), [complete notebook](../notebooks/class14-pandas-in-action-complete.ipynb))
+* Notebook: more pandas [class notebook](../notebooks/class14-pandas-in-action-inclass.ipynb)
 
 10/20 – ASYNCHRONOUS
 ##### Language Models
