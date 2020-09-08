@@ -114,7 +114,7 @@
 * Notebook: topic modeling [class notebook](../notebooks/class9/class9-topic-modeling-inclass.ipynb) 	
 
 10/1 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-##### Word vectors 
+##### Word Embedding Models 
 
 * Before class:
 	* Read: Sarah Connell, “[Word Embedding Models are the New Topic Models](https://web.northeastern.edu/nulab/word-embedding-model/)”
