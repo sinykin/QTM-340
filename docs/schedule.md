@@ -86,7 +86,7 @@
 * Before class:
 	* Read: Lauren F. Klein, “[The Image of Absence: Archival Silence, Data Visualization, and James Hemings](https://read-dukeupress-edu.proxy.library.emory.edu/american-literature/article-pdf/85/4/661/393292/AL854_03Klein_Fpp.pdf)”
 	* Canvas: discussion of Klein 
-* In class: Part-of-Speech (POS) tagging, Named Entity Recognition (NER) [class notebook](../notebooks/class9-nlp-spacy-inclass-ds.ipynb)
+	* Notebook: Part-of-Speech (POS) tagging, Named Entity Recognition (NER) [class notebook](../notebooks/class9-nlp-spacy-inclass-ds.ipynb)
 
 9/22 – ASYNCHRONOUS
 ##### Turning Words into Numbers
@@ -103,9 +103,9 @@
 	* Read: Milo Beckman, ["These are the Phrases Each GOP Candidate Uses Most"](https://fivethirtyeight.com/features/these-are-the-phrases-each-gop-candidate-repeats-most/)
 	* Read: Matt Daniels, “[The Language of Hip Hop](https://pudding.cool/2017/09/hip-hop-words/)”
 	* Read: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6.5-6.6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
-
-* In class: word counts, tf-idf [class notebook](../notebooks/class10-counting-words-inclass.ipynb)
-* [intro of final project](../docs/final-project-overview-ds.pdf)
+	* Notebook: word counts, tf-idf [class notebook](../notebooks/class10-counting-words-inclass.ipynb)
+	
+* In class: [intro of final project](../docs/final-project-overview-ds.pdf)
 
 9/29 - ASYNCHRONOUS
 ##### Topic Modeling
