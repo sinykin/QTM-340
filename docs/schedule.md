@@ -66,8 +66,9 @@
 	* Read: David Zentgraf, [“What Every Programmer Absolutely, Positively Needs to Know about Encodings and Character Sets to Work with Text”](https://kunststube.net/encoding/)
 	* Read: Scott Weingart, ["The Route of a Text Message"](https://scottbot.net/the-route-of-a-text-message/)
 	* Canvas: Discussion of Weingart
+	* Text parsing and regex with our candidate song lyrics | regex: [class notebook](../notebooks/class7-regex-intro-inclass-ds.ipynb) | cleaning song lyrics: [class notebook](../notebooks/class7-regex-with-song-lyrics-inclass-ds.ipynb)
 
-* In class: Text parsing and regex with our candidate song lyrics | regex: [class notebook](../notebooks/class7-regex-intro-inclass-ds.ipynb) | cleaning song lyrics: [class notebook](../notebooks/class7-regex-with-song-lyrics-inclass-ds.ipynb)
+* In class: discussion of Weingart and regex notebooks
 
 ## Unit 2: Operationalizing Text as Data
 
