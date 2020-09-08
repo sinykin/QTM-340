@@ -120,6 +120,7 @@
 * Before class:
 	* Read: Sarah Connell, “[Word Embedding Models are the New Topic Models](https://web.northeastern.edu/nulab/word-embedding-model/)”
 	* Read: Ben Schmidt, “[Gendered Language in Teacher Reviews](http://benschmidt.org/profGender)”
+	* Read: Ben Schmidt, ["Rejecting the Gender Binary"](http://bookworm.benschmidt.org/posts/2015-10-30-rejecting-the-gender-binary.html)
 	* OPTIONAL: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6.8-6.11](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 	* Canvas: discussion of Connell and Schmidt
 * In class: word vectors [class notebook](../notebooks/class12-word-vectors-inclass.ipynb)
