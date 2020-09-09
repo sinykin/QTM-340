@@ -128,6 +128,7 @@
 10/6 – ASYNCHRONOUS
 ##### BERT (Bidirectional Encoder Representations from Transformers)
 
+* Read: Jay Alammar, ["A Visual Guide to Using BERT for the First Time"](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
 * Read: Ted Underwood, ["How Predictable Is Fiction?"](https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/)
 * **HW3 Due: [Experimental Deisgn](../docs/hw3-ds.pdf)**
 
