@@ -125,8 +125,6 @@
 	* Canvas: discussion of Connell and Schmidt
 * In class: word vectors [class notebook](../notebooks/class12-word-vectors-inclass.ipynb)
 
-* **HW3 Due: [Experimental Deisgn](../docs/hw3-ds.pdf)**
-
 10/6 – ASYNCHRONOUS
 ##### Data // Pandas
 
@@ -138,6 +136,8 @@
 ##### Unit 2 Wrap-up
 
 * Final Project Brainstorming Session
+
+* **HW3 Due: [Experimental Design](../docs/hw3-ds.pdf)**
 
 ## Unit 3: Intermediate Data Science with Text
 10/13 – ASYNCHRONOUS
