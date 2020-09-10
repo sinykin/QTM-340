@@ -125,6 +125,8 @@
 	* Canvas: discussion of Connell and Schmidt
 * In class: word vectors [class notebook](../notebooks/class12-word-vectors-inclass.ipynb)
 
+* **HW3 Due: [Experimental Deisgn](../docs/hw3-ds.pdf)**
+
 10/6 – ASYNCHRONOUS
 ##### Data // Pandas
 
@@ -179,8 +181,6 @@
 
 11/3 - ASYNCHRONOUS
 # **ELECTION DAY—VOTE!!**
-
-* **HW3 Due: [Experimental Deisgn](../docs/hw3-ds.pdf)**
 
 11/5 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### BERT (Bidirectional Encoder Representations from Transformers)
