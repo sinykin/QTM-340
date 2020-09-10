@@ -70,7 +70,7 @@
 
 * In class: discussion of Weingart and regex notebooks
 
-## Unit 2: Operationalizing Text as Data
+## Unit 2: Introductory Data Science with Text
 
 9/15 – ASYNCHRONOUS
 ##### Sentiment Analysis 
@@ -137,7 +137,7 @@
 
 * Final Project Brainstorming Session
 
-## Unit 3: Modeling Textual Data
+## Unit 3: Intermediate Data Science with Text
 10/13 – ASYNCHRONOUS
 ##### Modeling, pt 1
 
