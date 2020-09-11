@@ -103,7 +103,7 @@
 	* Read: Milo Beckman, ["These are the Phrases Each GOP Candidate Uses Most"](https://fivethirtyeight.com/features/these-are-the-phrases-each-gop-candidate-repeats-most/)
 	* Read: Matt Daniels, “[The Language of Hip Hop](https://pudding.cool/2017/09/hip-hop-words/)”
 	* Read: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6.5-6.6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
-	* Notebook: word counts, tf-idf [class notebook](../notebooks/class10-counting-words-inclass.ipynb)
+	* Notebook: word counts, tf-idf [class notebook](../notebooks/class11-counting-words-inclass-ds.ipynb)
 	
 * In class: [intro of final project](../docs/final-project-overview-ds.pdf)
 
@@ -112,7 +112,7 @@
 
 * Read: Durand D'souza, ["We mapped out the road to gender parity in the House of Representatives"](https://pudding.cool/2018/07/women-in-congress/)
 * Read: Lauren F. Klein, ["Dimensions of Scale"](../docs/Klein_Topic_Modeling.pdf)
-* Notebook: topic modeling [class notebook](../notebooks/class9/class9-topic-modeling-inclass.ipynb) 	
+* Notebook: topic modeling [class notebook](../notebooks/class12-topic-modeling-inclass-ds.ipynb) 	
 
 10/1 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Word Embedding Models 
@@ -123,14 +123,14 @@
 	* Read: Ben Schmidt, ["Rejecting the Gender Binary"](http://bookworm.benschmidt.org/posts/2015-10-30-rejecting-the-gender-binary.html)
 	* OPTIONAL: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6.8-6.11](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 	* Canvas: discussion of Connell and Schmidt
-	* Notebook: word vectors [class notebook](../notebooks/class12-word-vectors-inclass.ipynb)
+	* Notebook: word vectors [class notebook](../notebooks/class13-word-vectors-inclass-ds.ipynb)
 
 10/6 – ASYNCHRONOUS
 ##### Data // Pandas
 
 * Read: Heather Krause, “[Data Biographies: Getting to Know Your Data](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)”
-* Read: Timnit Gebru et al., “[Datasheets for Datasets]"(https://arxiv.org/pdf/1803.09010.pdf)
-* Notebook: pandas [class notebook](../notebooks/class13-pandas-inclass.ipynb)
+* Read: Timnit Gebru et al., [“Datasheets for Datasets"](https://arxiv.org/pdf/1803.09010.pdf)
+* Notebook: pandas [class notebook](../notebooks/class14-pandas-basics-part1-inclass-ds.ipynb)
 
 10/8 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Unit 2 Wrap-up
@@ -146,11 +146,12 @@
 * Read: Richard Jean So, “[All Models are Wrong](https://www-mlajournals-org.proxy.library.emory.edu/doi/pdf/10.1632/pmla.2017.132.3.668)”
 * Read: Safiya Noble, “Introduction” and “Searching for Black Girls” from Algorithms of Oppression: How Search Engines Reinforce Racism (on Canvas)
 * Canvas: discussion of So and Noble
-* Notebook: more pandas [class notebook](../notebooks/class14-pandas-in-action-inclass.ipynb)
+* Notebook: more pandas [class notebook](../notebooks/class16-pandas-basics-part2-inclass-ds.ipynb)
 
 10/15 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Modeling, pt 2
 * Read: David Smith and Ryan Cordell, [“Mass Digitization”](https://manifold.umn.edu/read/untitled-883630b9-c054-44e1-91db-d053a7106ecb/section/ea1f849a-bac1-4e9d-85f4-149d0083a6a4) and [“What is Text, Probably?”](https://manifold.umn.edu/read/8ddd9c7c-c2db-44be-91a6-732d1d08ec47/section/4cb9d511-6870-4108-ba4e-2726d106dd39#ch03)
+* Notebook: and yet more pandas [class notebook](../notebooks/class17-pandas-basics-part3-inclass-ds.ipynb)
 
 10/20 – ASYNCHRONOUS
 ##### Similarity
