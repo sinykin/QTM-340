@@ -180,7 +180,7 @@
 * **FPP 2 Due: Datasheet OR Project Proposal**
 
 11/3 - ASYNCHRONOUS
-# **ELECTION DAY—VOTE!!**
+# **ELECTION DAY—NO CLASS—VOTE!!**
 
 11/5 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### BERT (Bidirectional Encoder Representations from Transformers)
