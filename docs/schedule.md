@@ -128,7 +128,8 @@
 10/6 – ASYNCHRONOUS
 ##### Data // Pandas
 
-* Read: Heather Krause, “[Data Biographies: Getting to Know Your Data](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)”
+* Read: Heather Krause, ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)”
+* Read: Anelise Hanson Shrout, ["(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse"](https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/)
 * Read: Timnit Gebru et al., [“Datasheets for Datasets"](https://arxiv.org/pdf/1803.09010.pdf)
 * Notebook: pandas [class notebook](../notebooks/class14-pandas-basics-part1-inclass-ds.ipynb)
 
