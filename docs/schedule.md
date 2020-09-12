@@ -133,12 +133,13 @@
 * Read: Timnit Gebru et al., [“Datasheets for Datasets"](https://arxiv.org/pdf/1803.09010.pdf)
 * Notebook: pandas [class notebook](../notebooks/class14-pandas-basics-part1-inclass-ds.ipynb)
 
+* **HW3 Due: [Experimental Design](../docs/hw3-ds.pdf)**
+* **Final Project Brainstorming Sheet Due**
+
 10/8 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Unit 2 Wrap-up
 
 * Final Project Brainstorming Session
-
-* **HW3 Due: [Experimental Design](../docs/hw3-ds.pdf)**
 
 ## Unit 3: Intermediate Data Science with Text
 10/13 – ASYNCHRONOUS
