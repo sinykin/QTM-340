@@ -132,7 +132,7 @@
 * Notebook: pandas [class notebook](../notebooks/class14-pandas-basics-part1-inclass-ds.ipynb)
 
 * **HW3 Due: [Experimental Design](../docs/hw3-ds.pdf)**
-* **Final Project Brainstorming Sheet Due**
+* **Final Project [Brainstorming Sheet](../docs/final-project-brainstorming-sheet.pdf) Due**
 
 10/8 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Data
