@@ -128,9 +128,7 @@
 10/6 – ASYNCHRONOUS
 ##### Data // Pandas
 
-* Read: Heather Krause, ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)”
 * Read: Anelise Hanson Shrout, ["(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse"](https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/)
-* Read: Timnit Gebru et al., [“Datasheets for Datasets"](https://arxiv.org/pdf/1803.09010.pdf)
 * Notebook: pandas [class notebook](../notebooks/class14-pandas-basics-part1-inclass-ds.ipynb)
 
 * **HW3 Due: [Experimental Design](../docs/hw3-ds.pdf)**
@@ -139,7 +137,11 @@
 10/8 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Unit 2 Wrap-up
 
-* Final Project Brainstorming Session
+* Before class:
+	* Read: Heather Krause, ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)”
+	* Read: Timnit Gebru et al., [“Datasheets for Datasets"](https://arxiv.org/pdf/1803.09010.pdf)
+
+* In class: Final Project Brainstorming Session
 
 ## Unit 3: Intermediate Data Science with Text
 10/13 – ASYNCHRONOUS
