@@ -126,7 +126,7 @@
 	* Notebook: word vectors [class notebook](../notebooks/class13-word-vectors-inclass-ds.ipynb)
 
 10/6 – ASYNCHRONOUS
-##### Data // Pandas
+##### Pandas
 
 * Read: Anelise Hanson Shrout, ["(Re)Humanizing Data: Digitally Navigating the Bellevue Almshouse"](https://crdh.rrchnm.org/essays/v01-10-(re)-humanizing-data/)
 * Notebook: pandas [class notebook](../notebooks/class14-pandas-basics-part1-inclass-ds.ipynb)
@@ -135,7 +135,7 @@
 * **Final Project Brainstorming Sheet Due**
 
 10/8 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-##### Unit 2 Wrap-up
+##### Data
 
 * Before class:
 	* Read: Heather Krause, ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)”
