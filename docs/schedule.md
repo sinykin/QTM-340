@@ -147,15 +147,17 @@
 10/13 – ASYNCHRONOUS
 ##### Modeling, pt 1
 
-* Read: Richard Jean So, “[All Models are Wrong](https://www-mlajournals-org.proxy.library.emory.edu/doi/pdf/10.1632/pmla.2017.132.3.668)”
-* Read: Safiya Noble, “Introduction” and “Searching for Black Girls” from Algorithms of Oppression: How Search Engines Reinforce Racism (on Canvas)
-* Canvas: discussion of So and Noble
+* Read: David Smith and Ryan Cordell, [“Mass Digitization”](https://manifold.umn.edu/read/untitled-883630b9-c054-44e1-91db-d053a7106ecb/section/ea1f849a-bac1-4e9d-85f4-149d0083a6a4) and [“What is Text, Probably?”](https://manifold.umn.edu/read/8ddd9c7c-c2db-44be-91a6-732d1d08ec47/section/4cb9d511-6870-4108-ba4e-2726d106dd39#ch03)
 * Notebook: more pandas [class notebook](../notebooks/class16-pandas-basics-part2-inclass-ds.ipynb)
 
 10/15 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Modeling, pt 2
-* Read: David Smith and Ryan Cordell, [“Mass Digitization”](https://manifold.umn.edu/read/untitled-883630b9-c054-44e1-91db-d053a7106ecb/section/ea1f849a-bac1-4e9d-85f4-149d0083a6a4) and [“What is Text, Probably?”](https://manifold.umn.edu/read/8ddd9c7c-c2db-44be-91a6-732d1d08ec47/section/4cb9d511-6870-4108-ba4e-2726d106dd39#ch03)
-* Notebook: and yet more pandas [class notebook](../notebooks/class17-pandas-basics-part3-inclass-ds.ipynb)
+
+* Before class: 
+	* Read: Richard Jean So, ["All Models are Wrong"](https://www-mlajournals-org.proxy.library.emory.edu/doi/pdf/10.1632/pmla.2017.132.3.668)”
+	* Read: Safiya Noble, [“Introduction”](../docs/Noble_Intro.pdf) and [“Searching for Black Girls”](../docs.Noble_Searching.pdf) from Algorithms of Oppression: How Search Engines Reinforce Racism 
+	* Canvas: discussion of So and Noble
+	* Notebook: and yet more pandas [class notebook](../notebooks/class17-pandas-basics-part3-inclass-ds.ipynb)
 
 10/20 – ASYNCHRONOUS
 ##### Similarity
