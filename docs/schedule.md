@@ -153,10 +153,11 @@
 10/15 - [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Modeling, pt 2
 
-* Read: Richard Jean So, ["All Models are Wrong"](https://www-mlajournals-org.proxy.library.emory.edu/doi/pdf/10.1632/pmla.2017.132.3.668)”
-* Read: Safiya Noble, [“Introduction”](../docs/Noble_Intro.pdf) and [“Searching for Black Girls”](../docs.Noble_Searching.pdf) from Algorithms of Oppression: How Search Engines Reinforce Racism 
-* Notebook: and yet more pandas [class notebook](../notebooks/class17-pandas-basics-part3-inclass-ds.ipynb)
-* Canvas: discussion of So and Noble
+* Before class: 
+	* Read: Richard Jean So, ["All Models are Wrong"](https://www-mlajournals-org.proxy.library.emory.edu/doi/pdf/10.1632/pmla.2017.132.3.668)”
+	* Read: Safiya Noble, [“Introduction”](../docs/Noble_Intro.pdf) and [“Searching for Black Girls”](../docs.Noble_Searching.pdf) from Algorithms of Oppression: How Search Engines Reinforce Racism 
+	* Canvas: discussion of So and Noble
+	* Notebook: and yet more pandas [class notebook](../notebooks/class17-pandas-basics-part3-inclass-ds.ipynb)
 
 10/20 – ASYNCHRONOUS
 ##### Similarity
