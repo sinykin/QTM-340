@@ -176,27 +176,23 @@
 
 10/27 – ASYNCHRONOUS
 ##### Neural Networks
-* TBD
-
-10/29 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-##### Clustering
 
 * Read: Alexis Madrigal, “[How Netflix Reverse Engineered Hollywood](https://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/)”
 * Notebook: more classification ([class notebook](../notebooks/class17-more-classifying-inclass.ipynb) and more clustering ([class notebook](../notebooks/class17-more-clustering-inclass.ipynb))
+
+10/29 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+##### BERT (Bidirectional Encoder Representations from Transformers)
+
+* Read: Jay Alammar, ["A Visual Guide to Using BERT for the First Time"](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
+* Read: Ted Underwood, ["How Predictable Is Fiction?"](https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/)
 
 * **FPP 2 Due: Datasheet OR Project Proposal**
 
 11/3 - NO CLASS
 # **ELECTION DAY—NO CLASS—VOTE!!**
 
-11/5 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-##### BERT (Bidirectional Encoder Representations from Transformers)
-
-* Read: Jay Alammar, ["A Visual Guide to Using BERT for the First Time"](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
-* Read: Ted Underwood, ["How Predictable Is Fiction?"](https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/)
-
 ## Unit 4: Arguing with Textual Data
-11/10 – ASYNCHRONOUS
+11/5 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Making arguments
 
 * Before Class:
@@ -204,14 +200,18 @@
 	* Read: Ted Underwood, David Bamman, and Sabrina Lee, [“The Transformation of Gender in English Language Fiction”](https://culturalanalytics.org/article/11035-the-transformation-of-gender-in-english-language-fiction)
 * In class: discussion of Nguyen et al, Underwood et al, and final project
 
-* **FPP 3 Due: Exploratory Analysis**
-
-11/12 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+11/10 – ASYNCHRONOUS
 ##### Validation
 
 * Read: Matthew Salganik, “Moving Beyond Simple Experiments,” from Bit by Bit: Social Research in the Digital Age (on Canvas)
 * Canvas: discussion of assigned papers (and a few other examples) ([class slides](../slides/class18-slides.pdf))
 * In class: overview of methods of validation ([class slides](../slides/class19-slides.pdf))
+
+* **FPP 3 Due: Exploratory Analysis**
+
+11/12 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+
+* TBD
 
 11/17 – SYNCHRONOUS
 ##### Project presentations
