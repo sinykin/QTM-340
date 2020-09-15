@@ -186,7 +186,7 @@
 
 * **FPP 2 Due: Datasheet OR Project Proposal**
 
-11/3 - ASYNCHRONOUS
+11/3 - NO CLASS
 # **ELECTION DAY—NO CLASS—VOTE!!**
 
 11/5 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
