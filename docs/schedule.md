@@ -163,7 +163,7 @@
 ##### Classification, pt 1
 
 * Read: Ted Underwood, ["The Life Cycles of Genres"](https://culturalanalytics.org/article/11061-the-life-cycles-of-genres)
-* Read: Dan Sinykin and Edwin Roland, ["Against Conglomeration: Nonprofit Publishing and American Literature after 1980"]
+* Read: Dan Sinykin and Edwin Roland, ["Against Conglomeration: Nonprofit Publishing and American Literature after 1980"](../docs/Sinykin_Roland_P45CA_Final.pdf)
 
 * Notebook: classification ([class notebook](../notebooks/class15-classification-inclass.ipynb), [complete notebook](../notebooks/class15-classification-complete.ipynb))
 
