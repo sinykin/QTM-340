@@ -160,22 +160,23 @@
 	* Notebook: and yet more pandas [class notebook](../notebooks/class17-pandas-basics-part3-inclass-ds.ipynb)
 
 10/20 – ASYNCHRONOUS
-##### Similarity
+##### Classification, pt 1
 
-* Read: Patrick Juola, “[How a Computer Program Helped Show J.K. Rowling Wrote A Cuckoo’s Calling](https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/)” (and [more technical version](https://languagelog.ldc.upenn.edu/nll/?p=5315) if you're curious)
+* Read: Ted Underwood, ["The Life Cycles of Genres"](https://culturalanalytics.org/article/11061-the-life-cycles-of-genres)
+* Read: Dan Sinykin and Edwin Roland, ["Against Conglomeration: Nonprofit Publishing and American Literature after 1980"]
 
 * Notebook: classification ([class notebook](../notebooks/class15-classification-inclass.ipynb), [complete notebook](../notebooks/class15-classification-complete.ipynb))
 
 * **FPP 1 Due: Datasheet OR Project Proposal**
 
 10/22 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-##### Classification
+##### Classification, pt 2
 
 * Read: Terra Blevins et al., “[Automatically Processing Tweets from Gang-Involved Youth: Towards Detecting Loss and Aggression](https://www.aclweb.org/anthology/C16-1207)”
 * Notebook: classification ([class notebook and required files](../notebooks/class16.zip), [complete notebook](../notebooks/class16/class16-clustering-complete.ipynb))
 
 10/27 – ASYNCHRONOUS
-##### Neural Networks
+##### Classification, pt 3
 
 * Read: Alexis Madrigal, “[How Netflix Reverse Engineered Hollywood](https://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/)”
 * Notebook: more classification ([class notebook](../notebooks/class17-more-classifying-inclass.ipynb) and more clustering ([class notebook](../notebooks/class17-more-clustering-inclass.ipynb))
