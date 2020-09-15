@@ -160,43 +160,39 @@
 	* Notebook: and yet more pandas [class notebook](../notebooks/class17-pandas-basics-part3-inclass-ds.ipynb)
 
 10/20 – ASYNCHRONOUS
-##### Similarity
+##### Classification, pt 1
 
-* Read: Patrick Juola, “[How a Computer Program Helped Show J.K. Rowling Wrote A Cuckoo’s Calling](https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/)” (and [more technical version](https://languagelog.ldc.upenn.edu/nll/?p=5315) if you're curious)
+* Read: Ted Underwood, ["The Life Cycles of Genres"](https://culturalanalytics.org/article/11061-the-life-cycles-of-genres)
+* Read: Dan Sinykin and Edwin Roland, ["Against Conglomeration: Nonprofit Publishing and American Literature after 1980"](../docs/Sinykin_Roland_P45CA_Final.pdf)
 
 * Notebook: classification ([class notebook](../notebooks/class15-classification-inclass.ipynb), [complete notebook](../notebooks/class15-classification-complete.ipynb))
 
 * **FPP 1 Due: Datasheet OR Project Proposal**
 
 10/22 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-##### Classification
+##### Classification, pt 2
 
 * Read: Terra Blevins et al., “[Automatically Processing Tweets from Gang-Involved Youth: Towards Detecting Loss and Aggression](https://www.aclweb.org/anthology/C16-1207)”
 * Notebook: classification ([class notebook and required files](../notebooks/class16.zip), [complete notebook](../notebooks/class16/class16-clustering-complete.ipynb))
 
 10/27 – ASYNCHRONOUS
-##### Neural Networks
-* TBD
-
-10/29 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Clustering
-* Read: Matt Daniels, “[The Language of Hip Hop](https://pudding.cool/2017/09/hip-hop-words/)”
+
 * Read: Alexis Madrigal, “[How Netflix Reverse Engineered Hollywood](https://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/)”
 * Notebook: more classification ([class notebook](../notebooks/class17-more-classifying-inclass.ipynb) and more clustering ([class notebook](../notebooks/class17-more-clustering-inclass.ipynb))
 
-* **FPP 2 Due: Datasheet OR Project Proposal**
-
-11/3 - ASYNCHRONOUS
-# **ELECTION DAY—NO CLASS—VOTE!!**
-
-11/5 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+10/29 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### BERT (Bidirectional Encoder Representations from Transformers)
 
-* Read: Jay Alammar, ["A Visual Guide to Using BERT for the First Time"](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
 * Read: Ted Underwood, ["How Predictable Is Fiction?"](https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/)
 
+* **FPP 2 Due: Datasheet OR Project Proposal**
+
+11/3 - NO CLASS
+# **ELECTION DAY—NO CLASS—VOTE!!**
+
 ## Unit 4: Arguing with Textual Data
-11/10 – ASYNCHRONOUS
+11/5 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Making arguments
 
 * Before Class:
@@ -204,14 +200,18 @@
 	* Read: Ted Underwood, David Bamman, and Sabrina Lee, [“The Transformation of Gender in English Language Fiction”](https://culturalanalytics.org/article/11035-the-transformation-of-gender-in-english-language-fiction)
 * In class: discussion of Nguyen et al, Underwood et al, and final project
 
-* **FPP 3 Due: Exploratory Analysis**
-
-11/12 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+11/10 – ASYNCHRONOUS
 ##### Validation
 
 * Read: Matthew Salganik, “Moving Beyond Simple Experiments,” from Bit by Bit: Social Research in the Digital Age (on Canvas)
 * Canvas: discussion of assigned papers (and a few other examples) ([class slides](../slides/class18-slides.pdf))
 * In class: overview of methods of validation ([class slides](../slides/class19-slides.pdf))
+
+* **FPP 3 Due: Exploratory Analysis**
+
+11/12 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
+
+* TBD
 
 11/17 – SYNCHRONOUS
 ##### Project presentations
@@ -224,4 +224,4 @@
 
 ### FINAL PROJECTS DUE TBD
 
-*Lauren F. Klein wrote and designed the first version of this syllabus, inspired by the courses of [Jinho Choi](https://github.com/emory-courses/data-science), [Alison Parrish](http://www.decontextualize.com/teaching/), [David Mimno](https://mimno.infosci.cornell.edu/info3350/), [David Bamman](http://people.ischool.berkeley.edu/~dbamman/info256.html), [Ryan Cordell](http://s17hda.ryancordell.org), and [Ben Schmidt](http://benschmidt.org/HDA19/), as well as suggestions and other input from Heather Froehlich, Ted Underwood, Jacob Eisenstein, Jim Casey, Taylor Arnold, Lauren Tilton, Lisa Rhody, Eileen Clancy, and the Colored Conventions Project Team. I supplemented the syllabus with inspiration and a great deal of language and code from Melanie Walsh.*
+*Lauren F. Klein wrote and designed the first version of this syllabus, inspired by the courses of [Jinho Choi](https://github.com/emory-courses/data-science), [Alison Parrish](http://www.decontextualize.com/teaching/), [David Mimno](https://mimno.infosci.cornell.edu/info3350/), [David Bamman](http://people.ischool.berkeley.edu/~dbamman/info256.html), [Ryan Cordell](http://s17hda.ryancordell.org), and [Ben Schmidt](http://benschmidt.org/HDA19/), as well as suggestions and other input from Heather Froehlich, Ted Underwood, Jacob Eisenstein, Jim Casey, Taylor Arnold, Lauren Tilton, Lisa Rhody, Eileen Clancy, and the Colored Conventions Project Team. I supplemented the syllabus with inspiration and a great deal of language and code from Melanie Walsh's online textbook [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/features/welcome.html).*
