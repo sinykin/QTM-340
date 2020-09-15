@@ -183,7 +183,6 @@
 10/29 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### BERT (Bidirectional Encoder Representations from Transformers)
 
-* Read: Jay Alammar, ["A Visual Guide to Using BERT for the First Time"](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
 * Read: Ted Underwood, ["How Predictable Is Fiction?"](https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/)
 
 * **FPP 2 Due: Datasheet OR Project Proposal**
