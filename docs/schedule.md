@@ -167,7 +167,7 @@
 
 * Notebook: classification ([class notebook](../notebooks/class15-classification-inclass.ipynb), [complete notebook](../notebooks/class15-classification-complete.ipynb))
 
-* **FPP 1 Due: [Datasheet]((../docs/hw4-ds.pdf)**
+* **FPP 1 Due: [Datasheet](../docs/hw4-ds.pdf)**
 
 10/22 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Classification, pt 2
