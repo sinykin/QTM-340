@@ -165,26 +165,29 @@
 * Read: Ted Underwood, ["The Life Cycles of Genres"](https://culturalanalytics.org/article/11061-the-life-cycles-of-genres)
 * Read: Dan Sinykin and Edwin Roland, ["Against Conglomeration: Nonprofit Publishing and American Literature after 1980"](../docs/Sinykin_Roland_P45CA_Final.pdf)
 
-* Notebook: classification ([class notebook](../notebooks/class18-classification-pt1-inclass-ds.ipynb), [complete notebook](../notebooks/class15-classification-complete.ipynb))
+* Notebook: classification [class notebook](../notebooks/class18-classification-pt1-inclass-ds.ipynb)
 
 * **FPP 1 Due: [Datasheet](../docs/hw4-ds.pdf)**
 
 10/22 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### Classification, pt 2
 
-* Read: Terra Blevins et al., “[Automatically Processing Tweets from Gang-Involved Youth: Towards Detecting Loss and Aggression](https://www.aclweb.org/anthology/C16-1207)”
-* Notebook: classification ([class notebook and required files](../notebooks/class19-classification-pt2-inclass-ds.ipynb), [complete notebook](../notebooks/class16/class16-clustering-complete.ipynb))
+* Before class
+	* Read: Terra Blevins et al., “[Automatically Processing Tweets from Gang-Involved Youth: Towards Detecting Loss and Aggression](https://www.aclweb.org/anthology/C16-1207)”
+	* Notebook: classification [class notebook](../notebooks/class19-classification-pt2-inclass-ds.ipynb)
 
 10/27 – ASYNCHRONOUS
 ##### Clustering
 
 * Read: Alexis Madrigal, “[How Netflix Reverse Engineered Hollywood](https://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/)”
-* Notebook: more classification ([class notebook](../notebooks/class17-more-classifying-inclass.ipynb) and more clustering ([class notebook](../notebooks/class17-more-clustering-inclass.ipynb))
+* Notebook: more classification [class notebook](../notebooks/class17-more-classifying-inclass.ipynb) and more clustering ([class notebook](../notebooks/class17-more-clustering-inclass.ipynb)
 
 10/29 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
 ##### BERT (Bidirectional Encoder Representations from Transformers)
 
-* Read: Ted Underwood, ["How Predictable Is Fiction?"](https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/)
+* Before class:
+	* Read: Ted Underwood, ["How Predictable Is Fiction?"](https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/)
+	* Notebooks: [sentiment notebook](class21-BERT-inclass-ds.ipynb) | [next sentence notebook](class21-BERT-next-sentence-inclass-ds.ipynb)
 
 * **FPP 2 Due: Project Proposal**
 
