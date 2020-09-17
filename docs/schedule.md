@@ -110,7 +110,6 @@
 9/29 - ASYNCHRONOUS
 ##### Topic Modeling
 
-* Read: Durand D'souza, ["We mapped out the road to gender parity in the House of Representatives"](https://pudding.cool/2018/07/women-in-congress/)
 * Read: Lauren F. Klein, ["Dimensions of Scale"](../docs/Klein_Topic_Modeling.pdf)
 * Notebook: topic modeling [class notebook](../notebooks/class12-topic-modeling-inclass-ds.ipynb) 	
 
