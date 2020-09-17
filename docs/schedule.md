@@ -165,7 +165,7 @@
 * Read: Ted Underwood, ["The Life Cycles of Genres"](https://culturalanalytics.org/article/11061-the-life-cycles-of-genres)
 * Read: Dan Sinykin and Edwin Roland, ["Against Conglomeration: Nonprofit Publishing and American Literature after 1980"](../docs/Sinykin_Roland_P45CA_Final.pdf)
 
-* Notebook: classification ([class notebook](../notebooks/class15-classification-inclass.ipynb), [complete notebook](../notebooks/class15-classification-complete.ipynb))
+* Notebook: classification ([class notebook](../notebooks/class18-classification-pt1-inclass-ds.ipynb), [complete notebook](../notebooks/class15-classification-complete.ipynb))
 
 * **FPP 1 Due: [Datasheet](../docs/hw4-ds.pdf)**
 
@@ -173,7 +173,7 @@
 ##### Classification, pt 2
 
 * Read: Terra Blevins et al., “[Automatically Processing Tweets from Gang-Involved Youth: Towards Detecting Loss and Aggression](https://www.aclweb.org/anthology/C16-1207)”
-* Notebook: classification ([class notebook and required files](../notebooks/class16.zip), [complete notebook](../notebooks/class16/class16-clustering-complete.ipynb))
+* Notebook: classification ([class notebook and required files](../notebooks/class19-classification-pt2-inclass-ds.ipynb), [complete notebook](../notebooks/class16/class16-clustering-complete.ipynb))
 
 10/27 – ASYNCHRONOUS
 ##### Clustering
