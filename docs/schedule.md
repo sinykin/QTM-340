@@ -110,7 +110,6 @@
 9/29 - ASYNCHRONOUS
 ##### Topic Modeling
 
-* Read: Durand D'souza, ["We mapped out the road to gender parity in the House of Representatives"](https://pudding.cool/2018/07/women-in-congress/)
 * Read: Lauren F. Klein, ["Dimensions of Scale"](../docs/Klein_Topic_Modeling.pdf)
 * Notebook: topic modeling [class notebook](../notebooks/class12-topic-modeling-inclass-ds.ipynb) 	
 
@@ -162,7 +161,6 @@
 10/20 – ASYNCHRONOUS
 ##### Classification, pt 1
 
-* Read: Ted Underwood, ["The Life Cycles of Genres"](https://culturalanalytics.org/article/11061-the-life-cycles-of-genres)
 * Read: Dan Sinykin and Edwin Roland, ["Against Conglomeration: Nonprofit Publishing and American Literature after 1980"](../docs/Sinykin_Roland_P45CA_Final.pdf)
 
 * Notebook: classification [class notebook](../notebooks/class18-classification-pt1-inclass-ds.ipynb)
