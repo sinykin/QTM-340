@@ -91,8 +91,8 @@
 9/22 – ASYNCHRONOUS
 ##### Turning Words into Numbers
 
-* Read: Aurelie Herbelot, ["Distributional Semantics: A Light Introduction"](https://aurelieherbelot.net/research/distributional-semantics-intro/)
 * Read: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6-6.3](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
+* OPTIONAL: Aurelie Herbelot, ["Distributional Semantics: A Light Introduction"](https://aurelieherbelot.net/research/distributional-semantics-intro/)
 * Notebook: [intro to sklearn](../notebooks/class10-sklearn-countvectorizer-inclass-ds.ipynb)
 * **HW 2 Due: [Sentiment Analysis](../docs/hw2-ds.pdf)** 
 
@@ -100,9 +100,9 @@
 ##### tf-idf
 
 * Before class:
-	* Read: Milo Beckman, ["These are the Phrases Each GOP Candidate Uses Most"](https://fivethirtyeight.com/features/these-are-the-phrases-each-gop-candidate-repeats-most/)
 	* Read: Matt Daniels, “[The Language of Hip Hop](https://pudding.cool/2017/09/hip-hop-words/)”
 	* Read: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6.5-6.6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
+	* OPTIONAL: Milo Beckman, ["These are the Phrases Each GOP Candidate Uses Most"](https://fivethirtyeight.com/features/these-are-the-phrases-each-gop-candidate-repeats-most/)
 	* Notebook: word counts, tf-idf [class notebook](../notebooks/class11-counting-words-inclass-ds.ipynb)
 	
 * In class: [intro of final project](../docs/final-project-overview-ds.pdf)
@@ -117,9 +117,9 @@
 ##### Word Embedding Models 
 
 * Before class:
-	* Read: Sarah Connell, “[Word Embedding Models are the New Topic Models](https://web.northeastern.edu/nulab/word-embedding-model/)”
 	* Read: Ben Schmidt, “[Gendered Language in Teacher Reviews](http://benschmidt.org/profGender)”
 	* Read: Ben Schmidt, ["Rejecting the Gender Binary"](http://bookworm.benschmidt.org/posts/2015-10-30-rejecting-the-gender-binary.html)
+	* OPTIONAL: Sarah Connell, “[Word Embedding Models are the New Topic Models](https://web.northeastern.edu/nulab/word-embedding-model/)”
 	* OPTIONAL: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6.8-6.11](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 	* Canvas: discussion of Connell and Schmidt
 	* Notebook: word vectors [class notebook](../notebooks/class13-word-vectors-inclass-ds.ipynb)
