@@ -177,7 +177,7 @@
 10/27 – ASYNCHRONOUS
 ##### Clustering
 
-* Read: Alexis Madrigal, “[How Netflix Reverse Engineered Hollywood](https://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/)”
+* Read: Matthew Wilkens, ["Genre, Computation, and the Varieties of 20th Century U.S. Fiction"](../docs/Wilkens-genre-clustering.pdf)”
 * Notebook: clustering [class notebook](../notebooks/class20-clustering-inclass-ds.ipynb)
 
 10/29 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
@@ -211,8 +211,7 @@
 * **FPP 3 Due: Exploratory Analysis**
 
 11/12 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
-
-* TBD
+##### Conferences
 
 11/17 – SYNCHRONOUS
 ##### Project presentations
@@ -223,6 +222,6 @@
 11/24 – SYNCHRONOUS
 ##### Course wrap-up and assessment
 
-### FINAL PROJECTS DUE TBD
+### FINAL PROJECTS DUE FRIDAY, 12/4, 5:30PM
 
 *Lauren F. Klein wrote and designed the first version of this syllabus, inspired by the courses of [Jinho Choi](https://github.com/emory-courses/data-science), [Alison Parrish](http://www.decontextualize.com/teaching/), [David Mimno](https://mimno.infosci.cornell.edu/info3350/), [David Bamman](http://people.ischool.berkeley.edu/~dbamman/info256.html), [Ryan Cordell](http://s17hda.ryancordell.org), and [Ben Schmidt](http://benschmidt.org/HDA19/), as well as suggestions and other input from Heather Froehlich, Ted Underwood, Jacob Eisenstein, Jim Casey, Taylor Arnold, Lauren Tilton, Lisa Rhody, Eileen Clancy, and the Colored Conventions Project Team. I supplemented the syllabus with inspiration and a great deal of language and code from Melanie Walsh's online textbook [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/features/welcome.html).*
