@@ -1,3 +1,4 @@
+# QTM-340: Practical Approaches to Data Science with Text
 # Current Class-by-Class Schedule
 
 ## Introduction and Overview
@@ -198,15 +199,15 @@
 
 * Before Class:
 	* Read: Dong Nguyen et al., “[How we do things with words: Analyzing text as social and cultural data](https://arxiv.org/pdf/1907.01468.pdf)”
-	* Read: Ted Underwood, David Bamman, and Sabrina Lee, [“The Transformation of Gender in English Language Fiction”](https://culturalanalytics.org/article/11035-the-transformation-of-gender-in-english-language-fiction)
-* In class: discussion of Nguyen et al, Underwood et al, and final project
+	* OPTIONAL: Ted Underwood, David Bamman, and Sabrina Lee, [“The Transformation of Gender in English Language Fiction”](https://culturalanalytics.org/article/11035-the-transformation-of-gender-in-english-language-fiction)
+* In class: discussion of Nguyen et al, and final project
 
 11/10 – ASYNCHRONOUS
 ##### Validation
 
 * Read: Matthew Salganik, “Moving Beyond Simple Experiments,” from Bit by Bit: Social Research in the Digital Age (on Canvas)
 * Canvas: discussion of assigned papers (and a few other examples) ([class slides](../slides/class18-slides.pdf))
-* In class: overview of methods of validation ([class slides](../slides/class19-slides.pdf))
+* Overview of methods of validation ([class slides](../slides/class19-slides.pdf))
 
 * **FPP 3 Due: Exploratory Analysis**
 
