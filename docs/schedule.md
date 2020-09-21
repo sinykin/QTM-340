@@ -177,7 +177,7 @@
 10/27 – ASYNCHRONOUS
 ##### Clustering
 
-* Read: Alexis Madrigal, “[How Netflix Reverse Engineered Hollywood](https://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/)”
+* Read: Matthew Wilkens, ["Genre, Computation, and the Varieties of 20th Century U.S. Fiction"](../docs/Wilkens-genre-clustering.pdf)”
 * Notebook: clustering [class notebook](../notebooks/class20-clustering-inclass-ds.ipynb)
 
 10/29 – [SYNCHRONOUS](https://emory.zoom.us/j/97982394236)
