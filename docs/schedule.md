@@ -1,3 +1,4 @@
+# QTM-340: Practical Approaches to Data Science with Text
 # Current Class-by-Class Schedule
 
 ## Introduction and Overview
