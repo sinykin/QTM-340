@@ -209,7 +209,7 @@
 ##### Validation
 
 * Read: Matthew Salganik, [“Moving Beyond Simple Experiments,” from Bit by Bit: Social Research in the Digital Age](../docs/salganik.pdf)
-* OPTIONAL:on replication, Christine R. Harris, et al., ["Two Failures to Replicate High-Performance-Goal Priming Effects"](../docs/failure-to-replicate.pdf)
+* OPTIONAL: On replication, Christine R. Harris, et al., ["Two Failures to Replicate High-Performance-Goal Priming Effects"](../docs/failure-to-replicate.pdf)
 * Canvas: discussion of Nguyen et al and Salganik 
 
 * **FPP 3 Due: Exploratory Analysis**
