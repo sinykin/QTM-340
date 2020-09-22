@@ -211,6 +211,7 @@
 
 * Read: Matthew Salganik, [“Moving Beyond Simple Experiments,” from Bit by Bit: Social Research in the Digital Age](../docs/salganik.pdf)
 * OPTIONAL: On replication: 
+	* Susan Dominus, ["When the Revolution Came for Amy Cuddy"](https://www.nytimes.com/2017/10/18/magazine/when-the-revolution-came-for-amy-cuddy.html)
 	* Christine R. Harris, et al., ["Two Failures to Replicate High-Performance-Goal Priming Effects"](../docs/failure-to-replicate.pdf)
 	* Andrew Goldstone, ["Of Literary Standards and Logistic Regression: A Reproduction"](https://andrewgoldstone.com/blog/2016/01/04/standards/)
 * Canvas: discussion of Nguyen et al and Salganik 
