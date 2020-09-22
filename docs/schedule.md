@@ -205,7 +205,7 @@
 11/10 – ASYNCHRONOUS
 ##### Validation
 
-* Read: Matthew Salganik, “Moving Beyond Simple Experiments,” from Bit by Bit: Social Research in the Digital Age (on Canvas)
+* Read: Matthew Salganik, [“Moving Beyond Simple Experiments,” from Bit by Bit: Social Research in the Digital Age](../docs/salganik.pdf)
 * Canvas: discussion of assigned papers (and a few other examples) ([class slides](../slides/class18-slides.pdf))
 * Overview of methods of validation ([class slides](../slides/class19-slides.pdf))
 
