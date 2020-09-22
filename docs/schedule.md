@@ -104,6 +104,7 @@
 	* Read: Matt Daniels, “[The Language of Hip Hop](https://pudding.cool/2017/09/hip-hop-words/)”
 	* Read: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6.5-6.6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 	* OPTIONAL: Milo Beckman, ["These are the Phrases Each GOP Candidate Uses Most"](https://fivethirtyeight.com/features/these-are-the-phrases-each-gop-candidate-repeats-most/)
+	* Canvas: discussion of Jurafsky and Martin
 	* Notebook: word counts, tf-idf [class notebook](../notebooks/class11-counting-words-inclass-ds.ipynb)
 	
 * In class: [intro of final project](../docs/final-project-overview-ds.pdf)
@@ -140,7 +141,8 @@
 * Before class:
 	* Read: Heather Krause, ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)”
 	* Read: Timnit Gebru et al., [“Datasheets for Datasets"](https://arxiv.org/pdf/1803.09010.pdf)
-	* Canvas: discussion ofo Shrout, Krause, and Gebru et al
+	* OPTIONAL: Sarah Allison, ["Other people's data: Humanities edition"](https://culturalanalytics.org/article/11822-other-people-s-data-humanities-edition)
+	* Canvas: discussion of Shrout, Krause, and Gebru et al
 	
 * In class: Final Project Brainstorming Session
 
@@ -164,7 +166,6 @@
 ##### Classification, pt 1
 
 * Read: Dan Sinykin and Edwin Roland, ["Against Conglomeration: Nonprofit Publishing and American Literature after 1980"](../docs/Sinykin_Roland_P45CA_Final.pdf)
-
 * Notebook: classification [class notebook](../notebooks/class18-classification-pt1-inclass-ds.ipynb)
 
 * **FPP 1 Due: [Datasheet](../docs/hw4-ds.pdf)**
@@ -209,6 +210,9 @@
 ##### Validation
 
 * Read: Matthew Salganik, [“Moving Beyond Simple Experiments,” from Bit by Bit: Social Research in the Digital Age](../docs/salganik.pdf)
+* OPTIONAL: On replication: 
+	* Christine R. Harris, et al., ["Two Failures to Replicate High-Performance-Goal Priming Effects"](../docs/failure-to-replicate.pdf)
+	* Andrew Goldstone, ["Of Literary Standards and Logistic Regression: A Reproduction"](https://andrewgoldstone.com/blog/2016/01/04/standards/)
 * Canvas: discussion of Nguyen et al and Salganik 
 
 * **FPP 3 Due: Exploratory Analysis**
