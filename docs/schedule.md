@@ -188,7 +188,7 @@
 	* Read: Ted Underwood, ["How Predictable Is Fiction?"](https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/)
 	* Notebooks: [sentiment notebook](class21-BERT-inclass-ds.ipynb) | [next sentence notebook](class21-BERT-next-sentence-inclass-ds.ipynb)
 
-* **FPP 2 Due: Project Proposal**
+* **FPP 2 Due: [Project Proposal](../docs/hw5-ds.pdf)**
 
 11/3 - NO CLASS
 # **ELECTION DAY—NO CLASS—VOTE!!**
