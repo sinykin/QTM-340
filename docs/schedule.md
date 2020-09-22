@@ -104,6 +104,7 @@
 	* Read: Matt Daniels, “[The Language of Hip Hop](https://pudding.cool/2017/09/hip-hop-words/)”
 	* Read: Daniel Jurafsky & James H. Martin, ["Vector Semantics & Embeddings": SECTIONS 6.5-6.6](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
 	* OPTIONAL: Milo Beckman, ["These are the Phrases Each GOP Candidate Uses Most"](https://fivethirtyeight.com/features/these-are-the-phrases-each-gop-candidate-repeats-most/)
+	* Canvas: discussion of Jurafsky and Martin
 	* Notebook: word counts, tf-idf [class notebook](../notebooks/class11-counting-words-inclass-ds.ipynb)
 	
 * In class: [intro of final project](../docs/final-project-overview-ds.pdf)
@@ -141,7 +142,7 @@
 	* Read: Heather Krause, ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)”
 	* Read: Timnit Gebru et al., [“Datasheets for Datasets"](https://arxiv.org/pdf/1803.09010.pdf)
 	* OPTIONAL: Sarah Allison, ["Other people's data: Humanities edition"](https://culturalanalytics.org/article/11822-other-people-s-data-humanities-edition)
-	* Canvas: discussion ofo Shrout, Krause, and Gebru et al
+	* Canvas: discussion of Shrout, Krause, and Gebru et al
 	
 * In class: Final Project Brainstorming Session
 
