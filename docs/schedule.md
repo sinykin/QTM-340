@@ -140,7 +140,8 @@
 * Before class:
 	* Read: Heather Krause, ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/)”
 	* Read: Timnit Gebru et al., [“Datasheets for Datasets"](https://arxiv.org/pdf/1803.09010.pdf)
-
+	* Canvas: discussion ofo Shrout, Krause, and Gebru et al
+	
 * In class: Final Project Brainstorming Session
 
 ## Unit 3: Intermediate Data Science with Text
@@ -174,6 +175,7 @@
 * Before class
 	* Read: Terra Blevins et al., “[Automatically Processing Tweets from Gang-Involved Youth: Towards Detecting Loss and Aggression](https://www.aclweb.org/anthology/C16-1207)”
 	* Notebook: classification [class notebook](../notebooks/class19-classification-pt2-inclass-ds.ipynb)
+	* Canvas: discussion of Sinykin and Roland, and Blevins et al
 
 10/27 – ASYNCHRONOUS
 ##### Clustering
@@ -187,6 +189,7 @@
 * Before class:
 	* Read: Ted Underwood, ["How Predictable Is Fiction?"](https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/)
 	* Notebooks: [sentiment notebook](class21-BERT-inclass-ds.ipynb) | [next sentence notebook](class21-BERT-next-sentence-inclass-ds.ipynb)
+	* Canvas: discussion of Wilkens and Underwood
 
 * **FPP 2 Due: [Project Proposal](../docs/hw5-ds.pdf)**
 
@@ -205,9 +208,8 @@
 11/10 – ASYNCHRONOUS
 ##### Validation
 
-* Read: Matthew Salganik, “Moving Beyond Simple Experiments,” from Bit by Bit: Social Research in the Digital Age (on Canvas)
-* Canvas: discussion of assigned papers (and a few other examples) ([class slides](../slides/class18-slides.pdf))
-* Overview of methods of validation ([class slides](../slides/class19-slides.pdf))
+* Read: Matthew Salganik, [“Moving Beyond Simple Experiments,” from Bit by Bit: Social Research in the Digital Age](../docs/salganik.pdf)
+* Canvas: discussion of Nguyen et al and Salganik 
 
 * **FPP 3 Due: Exploratory Analysis**
 
