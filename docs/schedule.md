@@ -158,7 +158,7 @@
 
 * Before class: 
 	* Read: Richard Jean So, ["All Models are Wrong"](https://www-mlajournals-org.proxy.library.emory.edu/doi/pdf/10.1632/pmla.2017.132.3.668)”
-	* Read: Safiya Noble, [“Introduction”](../docs/Noble_Intro.pdf) and [“Searching for Black Girls”](../docs/Noble_Searching.pdf) from Algorithms of Oppression: How Search Engines Reinforce Racism 
+	* Read: Safiya Noble, [“Introduction”](../docs/Noble_Intro.pdf) and [“Searching for Black Girls”](https://www-jstor-org.proxy.library.emory.edu/stable/j.ctt1pwt9w5.6?refreqid=excelsior%3A582f70a14410360fb4ed6211e2c973c1&seq=1#metadata_info_tab_contents) from Algorithms of Oppression: How Search Engines Reinforce Racism 
 	* Canvas: discussion of So and Noble
 	* Notebook: and yet more pandas [class notebook](../notebooks/class17-pandas-basics-part3-inclass-ds.ipynb)
 
